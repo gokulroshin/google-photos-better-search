@@ -1,6 +1,6 @@
 import React, { useState, useEffect } from 'react';
 import { useSearchStore, ActionTypes } from '../store/searchStore.jsx';
-import { SearchIcon, MicIcon, CloseIcon, SparkleIcon } from './Icons.jsx';
+import { SearchIcon, MicIcon, CloseIcon } from './Icons.jsx';
 
 export default function SearchBar() {
   const { state, dispatch } = useSearchStore();
@@ -21,11 +21,6 @@ export default function SearchBar() {
   const handleClear = () => {
     setInputValue('');
     dispatch({ type: ActionTypes.RESET_SEARCH });
-  };
-
-  const handleStarterClick = (starterText) => {
-    setInputValue(starterText);
-    dispatch({ type: ActionTypes.SUBMIT_QUERY, payload: starterText });
   };
 
   return (
@@ -55,7 +50,7 @@ export default function SearchBar() {
           type="text"
           value={inputValue}
           onChange={e => setInputValue(e.target.value)}
-          placeholder="Try searching for a prescription…"
+          placeholder="Search/ Ask Photos"
           style={{
             flex: 1,
             border: 'none',
@@ -66,7 +61,7 @@ export default function SearchBar() {
             fontFamily: 'var(--gp-font-sans)',
             padding: '4px 0'
           }}
-          aria-label="Search photos with Better Search"
+          aria-label="Search/ Ask Photos"
         />
 
         {inputValue ? (
@@ -107,73 +102,6 @@ export default function SearchBar() {
           </button>
         )}
       </form>
-
-      {/* Quick Demo Starter Chips (Visible on initial feed) */}
-      {state.phase === 'initial_feed' && (
-        <div
-          style={{
-            display: 'flex',
-            gap: '8px',
-            marginTop: '10px',
-            overflowX: 'auto',
-            paddingBottom: '2px',
-            scrollbarWidth: 'none'
-          }}
-        >
-          <button
-            onClick={() => handleStarterClick('prescription')}
-            style={{
-              padding: '5px 12px',
-              borderRadius: 'var(--gp-radius-pill)',
-              border: '1px solid var(--gp-chip-active-border)',
-              background: 'var(--gp-chip-active-bg)',
-              color: 'var(--gp-primary)',
-              fontSize: '12px',
-              fontWeight: 500,
-              cursor: 'pointer',
-              display: 'inline-flex',
-              alignItems: 'center',
-              gap: '4px',
-              whiteSpace: 'nowrap'
-            }}
-          >
-            <SparkleIcon size={14} color="var(--gp-primary)" />
-            prescription
-          </button>
-
-          <button
-            onClick={() => handleStarterClick('beach')}
-            style={{
-              padding: '5px 12px',
-              borderRadius: 'var(--gp-radius-pill)',
-              border: '1px solid var(--gp-border)',
-              background: 'var(--gp-chip-bg)',
-              color: 'var(--gp-text-secondary)',
-              fontSize: '12px',
-              cursor: 'pointer',
-              whiteSpace: 'nowrap'
-            }}
-          >
-            beach 🏖️
-          </button>
-
-          <button
-            onClick={() => handleStarterClick('shoes')}
-            style={{
-              padding: '5px 12px',
-              borderRadius: 'var(--gp-radius-pill)',
-              border: '1px solid var(--gp-border)',
-              background: 'var(--gp-chip-bg)',
-              color: 'var(--gp-text-secondary)',
-              fontSize: '12px',
-              cursor: 'pointer',
-              whiteSpace: 'nowrap'
-            }}
-          >
-            shoes screenshot 👟
-          </button>
-        </div>
-      )}
     </div>
   );
 }

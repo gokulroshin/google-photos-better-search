@@ -90,10 +90,10 @@ async function runValidation() {
   verify('V-02', 'Search bar with demo placeholder', () => {
     const searchBarCode = fs.readFileSync(path.join(frontendDir, 'src', 'components', 'SearchBar.jsx'), 'utf8');
     expectTrue(
-      searchBarCode.includes('placeholder="Try searching for a prescription…"'),
-      'Search bar placeholder must match demo target'
+      searchBarCode.includes('placeholder="Search/ Ask Photos"'),
+      'Search bar placeholder must be "Search/ Ask Photos"'
     );
-    return 'Confirmed: Placeholder prompts user with "Try searching for a prescription…".';
+    return 'Confirmed: Placeholder prompts user with "Search/ Ask Photos".';
   });
 
   // ---------------------------------------------------------------------------
