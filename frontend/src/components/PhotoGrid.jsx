@@ -86,27 +86,6 @@ export default function PhotoGrid() {
           e.currentTarget.style.transform = 'scale(1)';
         }}
       />
-
-      {/* Subtle Gradient & Category Label overlay on bottom */}
-      <div
-        style={{
-          position: 'absolute',
-          bottom: 0,
-          left: 0,
-          right: 0,
-          padding: '4px 6px',
-          background: 'linear-gradient(to top, rgba(0,0,0,0.65) 0%, transparent 100%)',
-          color: '#ffffff',
-          fontSize: '10px',
-          fontWeight: 500,
-          whiteSpace: 'nowrap',
-          overflow: 'hidden',
-          textOverflow: 'ellipsis',
-          pointerEvents: 'none'
-        }}
-      >
-        {asset.condition || asset.documentSubType || asset.title}
-      </div>
     </div>
   );
 
