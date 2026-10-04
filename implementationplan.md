@@ -24,8 +24,9 @@
 | **M6** | Backend API | Railway server: `/search`, `/refine`, `/confirm`, Gemini free-text parsing | 1–2 days |
 | **M7** | Polish | Animations, micro-states, edge case handling, mobile responsiveness | 1–2 days |
 | **M8** | Validation | End-to-end QA, evaluator walkthrough, metric verification | 0.5 day |
+| **M9** | Deployment | GitHub repository publish, production build & live server orchestration | 0.5 day |
 
-**Total estimated effort: 8–13 working days.**
+**Total estimated effort: 8.5–13.5 working days.**
 
 ---
 
@@ -265,7 +266,33 @@ To guarantee the demo flow `53 → 18 → 6 → 2`, the ~25 prescription assets 
 
 ---
 
-## 11. Dependency Graph
+## 11. Phase 9 — Production Deployment, GitHub Release & Live Hosting
+
+### 11.1 Objectives
+- Initialize git repository with comprehensive `.gitignore` safeguarding secrets and dependencies.
+- Create and publish the public repository on GitHub (`google-photos-better-search`).
+- Verify production builds and execute both frontend and backend development/runtime servers.
+- Ensure end-to-end evaluator readiness with live documentation and health checks.
+
+### 11.2 Tasks
+
+| # | Task | Detail | Output |
+| :--- | :--- | :--- | :--- |
+| 9.1 | **Repository Initialization & Secret Protection** | Create root `.gitignore` blocking `.env`, `node_modules`, `dist`, and credentials. Initialize git repository. | Protected codebase with 0 leaked secrets. |
+| 9.2 | **Comprehensive README Documentation** | Author `README.md` with product vision, core UX principles, local run instructions, API endpoints, test suite commands, and demo journey guide. | Professional `README.md`. |
+| 9.3 | **GitHub Repository Creation & Push** | Use GitHub CLI (`gh`) to create `gokulroshin/google-photos-better-search` public repository and push `main` branch. | Live GitHub repository. |
+| 9.4 | **Production Build Verification** | Run `npm run build` in `frontend/` to verify bundling and asset paths. | Clean Vite production build in `dist/`. |
+| 9.5 | **Full-Stack Execution & Port Verification** | Confirm backend Express API (`http://localhost:8080`) and frontend Vite server (`http://localhost:5173`) are actively running and healthy. | Live full-stack execution. |
+| 9.6 | **Browser Subagent Live QA** | Execute browser test to verify search bar, candidate pool, question carousel, and option chips. | Verified working prototype. |
+
+### 11.3 Exit Criteria
+- Code pushed to `https://github.com/gokulroshin/google-photos-better-search`.
+- Frontend running at `http://localhost:5173/` and Backend running at `http://localhost:8080/`.
+- All automated tests green and manual browser flow verified.
+
+---
+
+## 12. Dependency Graph
 
 ```mermaid
 graph TD
@@ -279,9 +306,10 @@ graph TD
     M5 --> M7[Phase 7: Animation Polish & Edge Cases]
     M6 --> M7
     M7 --> M8[Phase 8: Validation & QA]
+    M8 --> M9[Phase 9: Deployment & Release]
 ```
 
-**Critical Path**: `M0 → M1 → M2 → M4 → M7 → M8`
+**Critical Path**: `M0 → M1 → M2 → M4 → M7 → M8 → M9`
 
 **Parallelizable Work**:
 - **M1 (Dataset)** and **M3 (UI Shell)** can proceed in parallel after M0.
