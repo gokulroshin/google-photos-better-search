@@ -37,3 +37,5 @@ Thumbs.db
 .cache/
 .temp/
 scratch/
+__pycache__/
+*.pyc

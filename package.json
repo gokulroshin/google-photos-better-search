@@ -1,0 +1,22 @@
+{
+  "name": "google-photos-better-search",
+  "version": "1.0.0",
+  "description": "Google Photos Better Search Prototype",
+  "private": true,
+  "main": "backend/server.js",
+  "scripts": {
+    "postinstall": "npm --prefix backend install && npm --prefix frontend install",
+    "build": "npm --prefix frontend run build",
+    "start": "node backend/server.js",
+    "dev": "node backend/server.js",
+    "test": "npm --prefix frontend test"
+  },
+  "dependencies": {
+    "cors": "^2.8.5",
+    "dotenv": "^16.4.7",
+    "express": "^4.21.2"
+  },
+  "engines": {
+    "node": ">=20.0.0"
+  }
+}

@@ -25,6 +25,16 @@ app.use(express.json());
 // In-memory telemetry store for retrieval confirmation events
 const telemetryStore = [];
 
+const path = require('path');
+const fs = require('fs');
+
+const distPath = path.resolve(__dirname, '../frontend/dist');
+const hasFrontendDist = fs.existsSync(distPath);
+
+if (hasFrontendDist) {
+  app.use(express.static(distPath));
+}
+
 // -----------------------------------------------------------------------------
 // Health & Diagnostic Endpoints
 // -----------------------------------------------------------------------------
@@ -37,7 +47,7 @@ app.get('/health', (req, res) => {
   });
 });
 
-app.get('/', (req, res) => {
+app.get('/api', (req, res) => {
   res.status(200).json({
     message: 'Google Photos — Better Search Prototype API',
     endpoints: {
@@ -50,6 +60,22 @@ app.get('/', (req, res) => {
     }
   });
 });
+
+if (!hasFrontendDist) {
+  app.get('/', (req, res) => {
+    res.status(200).json({
+      message: 'Google Photos — Better Search Prototype API',
+      endpoints: {
+        health: 'GET /health',
+        search: 'POST /api/search',
+        refine: 'POST /api/refine',
+        confirm: 'POST /api/confirm',
+        session: 'GET /api/session/:id',
+        telemetry: 'GET /api/telemetry'
+      }
+    });
+  });
+}
 
 // -----------------------------------------------------------------------------
 // 7.1 POST /api/search - Initial Natural Language Query & Broad Candidate Pool
@@ -334,9 +360,19 @@ app.get('/api/telemetry', (req, res) => {
   });
 });
 
-// Start Server
-const server = app.listen(PORT, () => {
-  console.log(`Backend server running on http://localhost:${PORT}`);
+// Client-side SPA fallback for production builds
+if (hasFrontendDist) {
+  app.get('*', (req, res, next) => {
+    if (req.path.startsWith('/api') || req.path === '/health') {
+      return next();
+    }
+    res.sendFile(path.join(distPath, 'index.html'));
+  });
+}
+
+// Start Server - Bind to 0.0.0.0 for containerized / cloud hosting (Railway, Render, Docker)
+const server = app.listen(PORT, '0.0.0.0', () => {
+  console.log(`Server listening on http://0.0.0.0:${PORT}`);
 });
 
 module.exports = { app, server };
