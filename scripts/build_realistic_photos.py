@@ -447,18 +447,20 @@ def process_asset(asset):
 
 from concurrent.futures import ThreadPoolExecutor, as_completed
 
-print(f"Starting parallel realistic photo generation for all {len(photo_library)} assets...")
-completed_count = 0
-with ThreadPoolExecutor(max_workers=12) as executor:
-    futures = {executor.submit(process_asset, asset): asset for asset in photo_library}
-    for future in as_completed(futures):
-        completed_count += 1
-        asset = futures[future]
-        try:
-            msg = future.result()
-            if completed_count % 15 == 0 or completed_count == len(photo_library):
-                print(f"[{completed_count}/{len(photo_library)}] {msg}")
-        except Exception as e:
-            print(f"Error processing {asset['id']}: {e}")
+if __name__ == '__main__':
+    print(f"Starting parallel realistic photo generation for all {len(photo_library)} assets...")
+    completed_count = 0
+    with ThreadPoolExecutor(max_workers=12) as executor:
+        futures = {executor.submit(process_asset, asset): asset for asset in photo_library}
+        for future in as_completed(futures):
+            completed_count += 1
+            asset = futures[future]
+            try:
+                msg = future.result()
+                if completed_count % 15 == 0 or completed_count == len(photo_library):
+                    print(f"[{completed_count}/{len(photo_library)}] {msg}")
+            except Exception as e:
+                print(f"Error processing {asset['id']}: {e}")
 
-print("\nSUCCESS: All 130 realistic photos generated and saved as WebP!")
+    print("\nSUCCESS: All 130 realistic photos generated and saved as WebP!")
+
