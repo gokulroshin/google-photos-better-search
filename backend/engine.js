@@ -46,38 +46,149 @@ const EVALUABLE_DIMENSIONS = [
   }
 ];
 
-const QUESTION_TEMPLATES = {
-  condition: {
-    questionId: 'q_condition',
-    prompt: 'What was the prescription for?',
-    formatOption: val => val
+const NON_DOC_VISUAL_TERMS = new Set([
+  'food', 'foods', 'meal', 'meals', 'dish', 'dishes', 'breakfast', 'lunch', 'dinner',
+  'snack', 'snacks', 'dessert', 'desserts', 'cuisine', 'dosa', 'pizza', 'pasta', 'ramen', 'burger',
+  'beach', 'beaches', 'sunset', 'sunsets', 'sunrise', 'ocean', 'sea', 'sand',
+  'cat', 'cats', 'dog', 'dogs', 'pet', 'pets', 'puppy', 'kitten',
+  'car', 'cars', 'shoes', 'shoe', 'hiking', 'hike', 'travel', 'trip', 'vacation', 'holiday',
+  'nature', 'mountain', 'mountains', 'lake', 'waterfall', 'concert', 'party'
+]);
+
+const DOC_INTENT_TERMS = new Set([
+  'prescription', 'prescriptions', 'rx', 'doctor', 'dr', 'medicine', 'medicines',
+  'medication', 'medications', 'clinic', 'hospital', 'receipt', 'bill', 'invoice',
+  'report', 'poisoning', 'medical', 'pharma', 'pharmacy', 'vomiting', 'fever',
+  'cold', 'cough', 'pain', 'skin', 'dose', 'dosage', 'tablet', 'discharge', 'printed', 'slip'
+]);
+
+const QUERY_ALIASES = {
+  trip: ['travel', 'trip', 'vacation'],
+  trips: ['travel', 'trip', 'vacation'],
+  vacation: ['travel', 'trip', 'vacation'],
+  vacations: ['travel', 'trip', 'vacation'],
+  holiday: ['travel', 'trip', 'holiday'],
+  holidays: ['travel', 'trip', 'holiday'],
+  rx: ['prescription'],
+  prescriptions: ['prescription'],
+  medicine: ['prescription', 'medicine', 'medication'],
+  medicines: ['prescription', 'medicine', 'medication'],
+  kitty: ['cat'],
+  kitten: ['cat'],
+  puppy: ['dog']
+};
+
+const CATEGORY_PROMPTS = {
+  Document: {
+    condition: 'What was the prescription for?',
+    year: 'About when was this prescription?',
+    'location.category': 'Do you remember where you were when you got it?',
+    'visualAttributes.paperType': 'What did the document look like?',
+    people: 'Who was this doctor or family member?'
   },
-  year: {
-    questionId: 'q_year',
-    prompt: 'About when was this prescription?',
-    formatOption: val => {
-      if (String(val) === '2025') return 'Last year (2025)';
-      if (String(val) === '2024') return '2024';
-      if (String(val) <= '2023') return 'Earlier';
-      return String(val);
-    }
+  Food: {
+    condition: 'What kind of food or meal was it?',
+    year: 'About when did you have this meal?',
+    'location.category': 'Where did you have this food?',
+    'visualAttributes.paperType': 'What kind of dish was it?',
+    people: 'Who were you dining or eating with?'
   },
-  'location.category': {
-    questionId: 'q_location_category',
-    prompt: 'Do you remember where you were when you got it?',
-    formatOption: val => val
+  Travel: {
+    condition: 'What kind of trip was this?',
+    year: 'About when was this trip?',
+    'location.category': 'What kind of destination or setting was it?',
+    'visualAttributes.paperType': 'What did the view look like?',
+    people: 'Who were you traveling with?'
   },
-  'visualAttributes.paperType': {
-    questionId: 'q_paper_type',
-    prompt: 'What did the document look like?',
-    formatOption: val => val
+  People: {
+    condition: 'What was the occasion or celebration?',
+    year: 'About when was this photo taken?',
+    'location.category': 'Where was this event or gathering held?',
+    'visualAttributes.paperType': 'What was the photo style?',
+    people: 'Who was in the photo or celebration?'
   },
-  people: {
-    questionId: 'q_people',
-    prompt: 'Who was this doctor or family member?',
-    formatOption: val => val
+  Pet: {
+    condition: 'What was your pet doing?',
+    year: 'About when was this photo taken?',
+    'location.category': 'Where was your pet at the time?',
+    'visualAttributes.paperType': 'What did the photo look like?',
+    people: 'Which pet or person was in the photo?'
+  },
+  General: {
+    condition: 'What was this for?',
+    year: 'About when was this photo taken?',
+    'location.category': 'Where was this photo taken?',
+    'visualAttributes.paperType': 'What did it look like?',
+    people: 'Who was in the photo or with you?'
   }
 };
+
+const OPTION_FORMATTERS = {
+  year: val => {
+    if (String(val) === '2025') return 'Last year (2025)';
+    if (String(val) === '2024') return '2024';
+    if (String(val) <= '2023') return 'Earlier';
+    return String(val);
+  }
+};
+
+function detectDominantCategory(candidates = [], query = '') {
+  if (Array.isArray(candidates) && candidates.length > 0) {
+    const counts = {};
+    for (const c of candidates) {
+      const type = c.contentType || 'General';
+      counts[type] = (counts[type] || 0) + 1;
+    }
+    let dominant = 'Document';
+    let max = 0;
+    for (const [type, count] of Object.entries(counts)) {
+      if (count > max) {
+        max = count;
+        dominant = type;
+      }
+    }
+    return dominant;
+  }
+
+  const q = String(query || '').toLowerCase();
+  if (/food|dining|meal|lunch|dinner|breakfast|cafe|restaurant|coffee|dessert|pizza|dosa/.test(q)) return 'Food';
+  if (/travel|trip|vacation|beach|flight|holiday|paris|goa|manali|lake/.test(q)) return 'Travel';
+  if (/pet|dog|cat|puppy|kitten/.test(q)) return 'Pet';
+  if (/people|party|celebration|friends|family|wedding|birthday|bbq/.test(q)) return 'People';
+  return 'Document';
+}
+
+function getPromptForAttribute(attribute, dominantCategory = 'Document', label = '') {
+  const catPrompts = CATEGORY_PROMPTS[dominantCategory] || CATEGORY_PROMPTS.Document;
+  if (catPrompts && catPrompts[attribute]) {
+    return catPrompts[attribute];
+  }
+  if (CATEGORY_PROMPTS.Document[attribute]) {
+    return CATEGORY_PROMPTS.Document[attribute];
+  }
+  switch (attribute) {
+    case 'location.city':
+      return 'Which city or place was this in?';
+    case 'foodType':
+      return 'What kind of food or meal was it?';
+    default:
+      return `Which ${label || 'detail'} do you recall?`;
+  }
+}
+
+function escapeRegex(str) {
+  return str.replace(/[.*+?^${}()|[\]\\]/g, '\\$&');
+}
+
+function matchesTermInText(text, term) {
+  if (!text) return false;
+  const pattern = new RegExp('\\b' + escapeRegex(term) + '(?:s|es)?\\b', 'i');
+  return pattern.test(text);
+}
+
+function matchesAnyTermInText(text, terms) {
+  return terms.some(t => matchesTermInText(text, t));
+}
 
 function normalizeText(text) {
   if (!text) return '';
@@ -87,32 +198,44 @@ function normalizeText(text) {
 function matchesQuery(asset, query) {
   if (!query || !query.trim()) return true;
   const q = normalizeText(query);
-  const terms = q.split(/\s+/).filter(Boolean);
+  const rawTerms = q.split(/[\s,]+/).map(t => t.replace(/^[^\w]+|[^\w]+$/g, '')).filter(Boolean);
+
+  if (rawTerms.length === 0) return true;
 
   if (asset.semanticTags && asset.semanticTags.some(tag => tag.toLowerCase() === q)) {
     return true;
   }
 
-  const searchCorpus = [
-    asset.title,
-    asset.contentType,
-    asset.documentSubType,
-    asset.condition,
-    asset.ocrText,
-    asset.description,
-    asset.approxDateLabel,
-    asset.location && asset.location.city,
-    asset.location && asset.location.placeName,
-    asset.location && asset.location.category,
-    asset.visualAttributes && asset.visualAttributes.paperType,
-    ...(asset.people || []),
-    ...(asset.semanticTags || [])
-  ]
-    .filter(Boolean)
-    .join(' ')
-    .toLowerCase();
+  const hasDocIntent = rawTerms.some(t => DOC_INTENT_TERMS.has(t));
 
-  return terms.every(term => searchCorpus.includes(term));
+  return rawTerms.every(term => {
+    const candidateTerms = QUERY_ALIASES[term] || [term];
+
+    const primaryFields = [
+      asset.title,
+      asset.contentType,
+      asset.documentSubType,
+      asset.condition,
+      asset.approxDateLabel,
+      asset.location && asset.location.city,
+      asset.location && asset.location.placeName,
+      asset.location && asset.location.category,
+      asset.visualAttributes && asset.visualAttributes.paperType,
+      ...(asset.people || []),
+      ...(asset.semanticTags || [])
+    ].filter(Boolean).join(' ');
+
+    if (matchesAnyTermInText(primaryFields, candidateTerms)) {
+      return true;
+    }
+
+    if (asset.contentType === 'Document' && NON_DOC_VISUAL_TERMS.has(term) && !hasDocIntent) {
+      return false;
+    }
+
+    const secondaryFields = [asset.ocrText, asset.description].filter(Boolean).join(' ');
+    return matchesAnyTermInText(secondaryFields, candidateTerms);
+  });
 }
 
 function matchesFilter(asset, filter) {
@@ -275,21 +398,20 @@ function rankAttributes(candidates, answeredDimensions = [], unanswerableDimensi
   return results;
 }
 
-function generateQuestion(rankedAttribute, step = 1) {
+function generateQuestion(rankedAttribute, step = 1, candidates = [], query = '') {
   if (!rankedAttribute) return null;
 
   const { attribute, label, topValues } = rankedAttribute;
-  const template = QUESTION_TEMPLATES[attribute] || {
-    questionId: `q_${attribute.replace('.', '_')}`,
-    prompt: `Which ${label || 'detail'} do you recall?`,
-    formatOption: val => String(val)
-  };
+  const dominantCategory = rankedAttribute.dominantCategory || detectDominantCategory(candidates, query);
+  const prompt = getPromptForAttribute(attribute, dominantCategory, label);
+  const formatOption = OPTION_FORMATTERS[attribute] || (val => String(val));
+  const questionId = `q_${attribute.replace('.', '_')}`;
 
   const formattedOptions = [];
   const seenOptions = new Set();
 
   for (const rawVal of topValues) {
-    const optLabel = template.formatOption(rawVal);
+    const optLabel = formatOption(rawVal);
     if (!seenOptions.has(optLabel)) {
       seenOptions.add(optLabel);
       formattedOptions.push(optLabel);
@@ -297,11 +419,11 @@ function generateQuestion(rankedAttribute, step = 1) {
   }
 
   return {
-    questionId: template.questionId,
+    questionId,
     attribute,
     step: Math.min(step, 5),
     maxSteps: 5,
-    prompt: template.prompt,
+    prompt,
     options: formattedOptions.slice(0, 5),
     allowNotSure: true,
     allowFreeText: true
@@ -368,7 +490,7 @@ function runClarificationPipeline({
     };
   }
 
-  const nextQuestion = generateQuestion(rankedAttrs[0], questionIndex);
+  const nextQuestion = generateQuestion(rankedAttrs[0], questionIndex, candidates, query);
 
   return {
     candidates,

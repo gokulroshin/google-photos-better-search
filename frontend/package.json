@@ -14,7 +14,8 @@
     "test:flow": "node src/engine/__tests__/interactiveFlow.test.js",
     "test:telemetry": "node src/engine/__tests__/confirmationTelemetry.test.js",
     "test:edge": "node src/engine/__tests__/edgeCases.test.js",
-    "test": "npm run test:engine && npm run test:flow && npm run test:telemetry && npm run test:edge"
+    "test:precision": "node src/engine/__tests__/searchPrecision.test.js",
+    "test": "npm run test:engine && npm run test:flow && npm run test:telemetry && npm run test:edge && npm run test:precision"
   },
   "dependencies": {
     "react": "^19.2.8",

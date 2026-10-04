@@ -116,7 +116,7 @@ export function runClarificationPipeline({
 
   // 4. Generate the highest-entropy question
   const topAttribute = rankedAttrs[0];
-  const nextQuestion = generateQuestion(topAttribute, questionIndex);
+  const nextQuestion = generateQuestion(topAttribute, questionIndex, candidates, query);
 
   const duration = performance.now() - startTime;
 
