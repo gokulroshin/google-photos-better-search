@@ -1,0 +1,4837 @@
+[
+  {
+    "id": "asset_001",
+    "url": "/photos/asset_001.webp",
+    "thumbnailUrl": "/photos/asset_001.webp",
+    "title": "Apollo Clinic Prescription - Dr. Rao",
+    "contentType": "Document",
+    "date": "2024-08-18T14:30:00Z",
+    "approxDateLabel": "August 2024",
+    "year": 2024,
+    "location": {
+      "city": "Bengaluru",
+      "placeName": "Apollo Clinic, Koramangala",
+      "category": "Clinic"
+    },
+    "people": [
+      "Pradeep",
+      "Dr. Rao"
+    ],
+    "visualAttributes": {
+      "dominantColors": [
+        "#FFFFFF",
+        "#1A73E8"
+      ],
+      "paperType": "White paper"
+    },
+    "ocrText": "Apollo Clinic Koramangala ... Dr. K. Rao MD ... Patient: Pradeep ... Rx: Tab Vomistop 10mg TDS, ORS sachet ... Follow-up 3 days",
+    "description": "Handwritten prescription on crisp white paper from Apollo Clinic for acute gastroenteritis and persistent vomiting, signed by Dr. Rao in blue ink.",
+    "semanticTags": [
+      "prescription",
+      "vomiting",
+      "clinic",
+      "august 2024",
+      "dr rao",
+      "apollo",
+      "vomistop",
+      "medicine",
+      "white paper",
+      "bengaluru"
+    ],
+    "documentSubType": "Prescription",
+    "condition": "Vomiting"
+  },
+  {
+    "id": "asset_002",
+    "url": "/photos/asset_002.webp",
+    "thumbnailUrl": "/photos/asset_002.webp",
+    "title": "CarePlus Family Clinic - Dr. Ananya",
+    "contentType": "Document",
+    "date": "2024-09-12T10:15:00Z",
+    "approxDateLabel": "September 2024",
+    "year": 2024,
+    "location": {
+      "city": "Bengaluru",
+      "placeName": "CarePlus Family Clinic, Indiranagar",
+      "category": "Clinic"
+    },
+    "people": [
+      "Pradeep",
+      "Dr. Ananya"
+    ],
+    "visualAttributes": {
+      "dominantColors": [
+        "#F8F9FA",
+        "#34A853"
+      ],
+      "paperType": "Prescription pad"
+    },
+    "ocrText": "CarePlus Clinic Indiranagar ... Dr. Ananya M ... Rx Ondansetron 4mg orally disintegrating ... Dietary: Coconut water, curd rice",
+    "description": "Doctor's printed prescription pad sheet with handwritten notes for severe nausea and vomiting from CarePlus Clinic.",
+    "semanticTags": [
+      "prescription",
+      "vomiting",
+      "clinic",
+      "september 2024",
+      "dr ananya",
+      "careplus",
+      "ondansetron",
+      "prescription pad",
+      "medicine",
+      "bengaluru"
+    ],
+    "documentSubType": "Prescription",
+    "condition": "Vomiting"
+  },
+  {
+    "id": "asset_003",
+    "url": "/photos/asset_003.webp",
+    "thumbnailUrl": "/photos/asset_003.webp",
+    "title": "Manipal Hospital ER Discharge Prescription",
+    "contentType": "Document",
+    "date": "2024-06-04T22:45:00Z",
+    "approxDateLabel": "June 2024",
+    "year": 2024,
+    "location": {
+      "city": "Bengaluru",
+      "placeName": "Manipal Hospital, Old Airport Road",
+      "category": "Hospital"
+    },
+    "people": [
+      "Pradeep",
+      "Dr. Sharma"
+    ],
+    "visualAttributes": {
+      "dominantColors": [
+        "#F1F3F4",
+        "#D93025"
+      ],
+      "paperType": "Printed form"
+    },
+    "ocrText": "Manipal Hospitals Emergency Care ... Discharge Rx ... Emeset 4mg IV stat followed by oral syrup ... Diagnosis: Acute viral gastropathy",
+    "description": "Printed hospital emergency room discharge prescription summary for severe dehydration and food poisoning with vomiting.",
+    "semanticTags": [
+      "prescription",
+      "vomiting",
+      "hospital",
+      "june 2024",
+      "manipal hospital",
+      "emergency",
+      "printed form",
+      "bengaluru"
+    ],
+    "documentSubType": "Prescription",
+    "condition": "Vomiting"
+  },
+  {
+    "id": "asset_004",
+    "url": "/photos/asset_004.webp",
+    "thumbnailUrl": "/photos/asset_004.webp",
+    "title": "Practo Teleconsult Digital Prescription",
+    "contentType": "Document",
+    "date": "2024-11-20T18:00:00Z",
+    "approxDateLabel": "November 2024",
+    "year": 2024,
+    "location": {
+      "city": "Bengaluru",
+      "placeName": "Home Telehealth",
+      "category": "Home"
+    },
+    "people": [
+      "Pradeep",
+      "Dr. Varma"
+    ],
+    "visualAttributes": {
+      "dominantColors": [
+        "#FFFFFF",
+        "#7057FF"
+      ],
+      "paperType": "White paper"
+    },
+    "ocrText": "Practo Digital Rx ... Consulted from home ... Dr. Rohit Varma ... Domperidone 10mg before meals ... Avoid oily food",
+    "description": "Digital telehealth teleconsultation prescription saved while resting at home for stomach upset and motion sickness vomiting.",
+    "semanticTags": [
+      "prescription",
+      "vomiting",
+      "home",
+      "november 2024",
+      "practo",
+      "teleconsult",
+      "white paper",
+      "bengaluru"
+    ],
+    "documentSubType": "Prescription",
+    "condition": "Vomiting"
+  },
+  {
+    "id": "asset_005",
+    "url": "/photos/asset_005.webp",
+    "thumbnailUrl": "/photos/asset_005.webp",
+    "title": "Fortis Hospital OPD Prescription",
+    "contentType": "Document",
+    "date": "2025-01-14T11:20:00Z",
+    "approxDateLabel": "January 2025",
+    "year": 2025,
+    "location": {
+      "city": "Bengaluru",
+      "placeName": "Fortis Hospital, Bannerghatta",
+      "category": "Hospital"
+    },
+    "people": [
+      "Pradeep",
+      "Dr. Suresh"
+    ],
+    "visualAttributes": {
+      "dominantColors": [
+        "#FFFFFF",
+        "#0F9D58"
+      ],
+      "paperType": "Printed form"
+    },
+    "ocrText": "Fortis Healthcare OPD ... Dr. Suresh Gastroenterologist ... Rx Pantocid-D, Ondan 4mg ... Food poisoning evaluation",
+    "description": "Recent Fortis hospital printed OPD prescription slip for stomach flu and vomiting in early 2025.",
+    "semanticTags": [
+      "prescription",
+      "vomiting",
+      "hospital",
+      "january 2025",
+      "fortis",
+      "printed form",
+      "bengaluru"
+    ],
+    "documentSubType": "Prescription",
+    "condition": "Vomiting"
+  },
+  {
+    "id": "asset_006",
+    "url": "/photos/asset_006.webp",
+    "thumbnailUrl": "/photos/asset_006.webp",
+    "title": "Cloudnine Clinic Pediatric & Family Rx",
+    "contentType": "Document",
+    "date": "2025-02-18T16:40:00Z",
+    "approxDateLabel": "February 2025",
+    "year": 2025,
+    "location": {
+      "city": "Bengaluru",
+      "placeName": "Cloudnine Clinic, Jayanagar",
+      "category": "Clinic"
+    },
+    "people": [
+      "Sneha",
+      "Dr. Meera"
+    ],
+    "visualAttributes": {
+      "dominantColors": [
+        "#FCE8E6",
+        "#C5221F"
+      ],
+      "paperType": "Pink slip"
+    },
+    "ocrText": "Cloudnine Care ... Dr. Meera Rao ... Rx Domstal baby drops / syrup ... Indication: Post-feed vomiting and acid reflux",
+    "description": "Pink tinted medical clinic slip for pediatric nausea and vomiting prescription.",
+    "semanticTags": [
+      "prescription",
+      "vomiting",
+      "clinic",
+      "february 2025",
+      "cloudnine",
+      "pink slip",
+      "bengaluru"
+    ],
+    "documentSubType": "Prescription",
+    "condition": "Vomiting"
+  },
+  {
+    "id": "asset_007",
+    "url": "/photos/asset_007.webp",
+    "thumbnailUrl": "/photos/asset_007.webp",
+    "title": "MedCenter Urgent Clinic Prescription",
+    "contentType": "Document",
+    "date": "2025-03-01T09:10:00Z",
+    "approxDateLabel": "March 2025",
+    "year": 2025,
+    "location": {
+      "city": "Bengaluru",
+      "placeName": "MedCenter Urgent Clinic, Whitefield",
+      "category": "Clinic"
+    },
+    "people": [
+      "Pradeep",
+      "Dr. Alok"
+    ],
+    "visualAttributes": {
+      "dominantColors": [
+        "#FFFFFF",
+        "#1A73E8"
+      ],
+      "paperType": "White paper"
+    },
+    "ocrText": "MedCenter Whitefield ... Urgent Consultation ... Rx Perinorm 10mg, Electral hydration ... Nausea and vomiting",
+    "description": "Doctor's advice sheet and medication prescription for travel sickness vomiting.",
+    "semanticTags": [
+      "prescription",
+      "vomiting",
+      "clinic",
+      "march 2025",
+      "whitefield",
+      "white paper",
+      "bengaluru"
+    ],
+    "documentSubType": "Prescription",
+    "condition": "Vomiting"
+  },
+  {
+    "id": "asset_008",
+    "url": "/photos/asset_008.webp",
+    "thumbnailUrl": "/photos/asset_008.webp",
+    "title": "Narayana Health Gastroenterology Rx",
+    "contentType": "Document",
+    "date": "2023-07-22T15:30:00Z",
+    "approxDateLabel": "July 2023",
+    "year": 2023,
+    "location": {
+      "city": "Bengaluru",
+      "placeName": "Narayana Health City",
+      "category": "Hospital"
+    },
+    "people": [
+      "Pradeep",
+      "Dr. Hegde"
+    ],
+    "visualAttributes": {
+      "dominantColors": [
+        "#F8F9FA",
+        "#185ABC"
+      ],
+      "paperType": "Printed form"
+    },
+    "ocrText": "Narayana Health ... Dept of Gastroenterology ... Rx Rabeprazole + Itopride ... Acid reflux with recurring vomiting episodes",
+    "description": "Detailed printed hospital prescription for acid regurgitation and persistent vomiting.",
+    "semanticTags": [
+      "prescription",
+      "vomiting",
+      "hospital",
+      "july 2023",
+      "narayana health",
+      "printed form",
+      "bengaluru"
+    ],
+    "documentSubType": "Prescription",
+    "condition": "Vomiting"
+  },
+  {
+    "id": "asset_009",
+    "url": "/photos/asset_009.webp",
+    "thumbnailUrl": "/photos/asset_009.webp",
+    "title": "Dr. Baliga Neighbourhood Clinic Rx",
+    "contentType": "Document",
+    "date": "2022-10-11T19:00:00Z",
+    "approxDateLabel": "October 2022",
+    "year": 2022,
+    "location": {
+      "city": "Bengaluru",
+      "placeName": "Dr. Baliga Clinic, Malleshwaram",
+      "category": "Clinic"
+    },
+    "people": [
+      "Pradeep",
+      "Dr. Baliga"
+    ],
+    "visualAttributes": {
+      "dominantColors": [
+        "#FFF8E1",
+        "#F29900"
+      ],
+      "paperType": "Prescription pad"
+    },
+    "ocrText": "Dr. Baliga Clinic Malleshwaram ... Rx Avomine 25mg bedtime, Digene gel ... Mild gastroenteritis",
+    "description": "Handwritten prescription pad slip from Malleshwaram neighborhood clinic for vomiting and dizziness.",
+    "semanticTags": [
+      "prescription",
+      "vomiting",
+      "clinic",
+      "october 2022",
+      "earlier",
+      "prescription pad",
+      "dr baliga",
+      "bengaluru"
+    ],
+    "documentSubType": "Prescription",
+    "condition": "Vomiting"
+  },
+  {
+    "id": "asset_010",
+    "url": "/photos/asset_010.webp",
+    "thumbnailUrl": "/photos/asset_010.webp",
+    "title": "Max Super Speciality Hospital Fever Rx",
+    "contentType": "Document",
+    "date": "2024-05-10T11:00:00Z",
+    "approxDateLabel": "May 2024",
+    "year": 2024,
+    "location": {
+      "city": "Delhi",
+      "placeName": "Max Hospital, Saket",
+      "category": "Hospital"
+    },
+    "people": [
+      "Pradeep",
+      "Dr. Gupta"
+    ],
+    "visualAttributes": {
+      "dominantColors": [
+        "#FFFFFF",
+        "#1A73E8"
+      ],
+      "paperType": "Printed form"
+    },
+    "ocrText": "Max Healthcare Saket ... High grade fever 102F ... Rx Dolo 650mg SOS, Azithromycin 500mg OD x 3 days ... Complete blood count test",
+    "description": "Printed hospital prescription for viral fever and high body temperature.",
+    "semanticTags": [
+      "prescription",
+      "fever",
+      "hospital",
+      "may 2024",
+      "max hospital",
+      "dolo 650",
+      "printed form",
+      "delhi"
+    ],
+    "documentSubType": "Prescription",
+    "condition": "Fever"
+  },
+  {
+    "id": "asset_011",
+    "url": "/photos/asset_011.webp",
+    "thumbnailUrl": "/photos/asset_011.webp",
+    "title": "Apollo Clinic Dengue Follow-up Rx",
+    "contentType": "Document",
+    "date": "2024-09-05T17:30:00Z",
+    "approxDateLabel": "September 2024",
+    "year": 2024,
+    "location": {
+      "city": "Bengaluru",
+      "placeName": "Apollo Clinic, Koramangala",
+      "category": "Clinic"
+    },
+    "people": [
+      "Pradeep",
+      "Dr. Rao"
+    ],
+    "visualAttributes": {
+      "dominantColors": [
+        "#FFFFFF",
+        "#D93025"
+      ],
+      "paperType": "White paper"
+    },
+    "ocrText": "Apollo Clinic ... Platelet monitoring ... Rx Paracetamol 650, Caripill tab ... Daily CBC ... High fever recovery",
+    "description": "Prescription sheet for fever recovery and platelet check by Dr. Rao at Apollo Clinic.",
+    "semanticTags": [
+      "prescription",
+      "fever",
+      "clinic",
+      "september 2024",
+      "apollo",
+      "dr rao",
+      "white paper",
+      "bengaluru"
+    ],
+    "documentSubType": "Prescription",
+    "condition": "Fever"
+  },
+  {
+    "id": "asset_012",
+    "url": "/photos/asset_012.webp",
+    "thumbnailUrl": "/photos/asset_012.webp",
+    "title": "Dr. Mohan Diabetes & General Clinic",
+    "contentType": "Document",
+    "date": "2024-03-19T10:00:00Z",
+    "approxDateLabel": "March 2024",
+    "year": 2024,
+    "location": {
+      "city": "Chennai",
+      "placeName": "Dr. Mohan Clinic, Gopalapuram",
+      "category": "Clinic"
+    },
+    "people": [
+      "Pradeep",
+      "Dr. Mohan"
+    ],
+    "visualAttributes": {
+      "dominantColors": [
+        "#F1F3F4",
+        "#1E8E3E"
+      ],
+      "paperType": "Prescription pad"
+    },
+    "ocrText": "Dr. Mohan Clinic ... Febrile illness ... Rx Calpol 500, Vitamin C, Zincovit ... Plenty of fluids",
+    "description": "Doctor prescription pad for seasonal viral fever in Chennai.",
+    "semanticTags": [
+      "prescription",
+      "fever",
+      "clinic",
+      "march 2024",
+      "chennai",
+      "prescription pad",
+      "calpol"
+    ],
+    "documentSubType": "Prescription",
+    "condition": "Fever"
+  },
+  {
+    "id": "asset_013",
+    "url": "/photos/asset_013.webp",
+    "thumbnailUrl": "/photos/asset_013.webp",
+    "title": "Home Quarantine Teleconsult Rx",
+    "contentType": "Document",
+    "date": "2023-11-02T14:15:00Z",
+    "approxDateLabel": "November 2023",
+    "year": 2023,
+    "location": {
+      "city": "Bengaluru",
+      "placeName": "Home Isolation",
+      "category": "Home"
+    },
+    "people": [
+      "Pradeep",
+      "Dr. Kavita"
+    ],
+    "visualAttributes": {
+      "dominantColors": [
+        "#FFFFFF",
+        "#5F6368"
+      ],
+      "paperType": "White paper"
+    },
+    "ocrText": "Telehealth consultation ... Suspected flu fever ... Rx Paracetamol 1g, Steam inhalation",
+    "description": "Prescription slip from online doctor consult for high fever and chills treated at home.",
+    "semanticTags": [
+      "prescription",
+      "fever",
+      "home",
+      "november 2023",
+      "teleconsult",
+      "white paper",
+      "bengaluru"
+    ],
+    "documentSubType": "Prescription",
+    "condition": "Fever"
+  },
+  {
+    "id": "asset_014",
+    "url": "/photos/asset_014.webp",
+    "thumbnailUrl": "/photos/asset_014.webp",
+    "title": "Manipal Hospital Typhoid Protocol Rx",
+    "contentType": "Document",
+    "date": "2025-02-10T12:00:00Z",
+    "approxDateLabel": "February 2025",
+    "year": 2025,
+    "location": {
+      "city": "Bengaluru",
+      "placeName": "Manipal Hospital, HAL",
+      "category": "Hospital"
+    },
+    "people": [
+      "Pradeep",
+      "Dr. Sen"
+    ],
+    "visualAttributes": {
+      "dominantColors": [
+        "#FFFFFF",
+        "#185ABC"
+      ],
+      "paperType": "Printed form"
+    },
+    "ocrText": "Manipal Hospitals OPD ... Enteric fever ... Rx Cefixime 200mg BD x 7 days, Paracetamol SOS",
+    "description": "Hospital prescription with antibiotic protocol for persistent typhoid fever.",
+    "semanticTags": [
+      "prescription",
+      "fever",
+      "hospital",
+      "february 2025",
+      "manipal hospital",
+      "printed form",
+      "bengaluru"
+    ],
+    "documentSubType": "Prescription",
+    "condition": "Fever"
+  },
+  {
+    "id": "asset_015",
+    "url": "/photos/asset_015.webp",
+    "thumbnailUrl": "/photos/asset_015.webp",
+    "title": "Neighbourhood Nursing Home Fever Slip",
+    "contentType": "Document",
+    "date": "2023-04-18T20:00:00Z",
+    "approxDateLabel": "April 2023",
+    "year": 2023,
+    "location": {
+      "city": "Bengaluru",
+      "placeName": "Sri Krishna Nursing Home",
+      "category": "Clinic"
+    },
+    "people": [
+      "Sneha",
+      "Dr. Krishna"
+    ],
+    "visualAttributes": {
+      "dominantColors": [
+        "#FCE8E6",
+        "#A50E0E"
+      ],
+      "paperType": "Pink slip"
+    },
+    "ocrText": "Sri Krishna Clinic ... Rx Crocin Advance, Mefenamic acid ... Night fever and shivering",
+    "description": "Handwritten pink clinic slip for acute fever and body ache.",
+    "semanticTags": [
+      "prescription",
+      "fever",
+      "clinic",
+      "april 2023",
+      "pink slip",
+      "bengaluru"
+    ],
+    "documentSubType": "Prescription",
+    "condition": "Fever"
+  },
+  {
+    "id": "asset_016",
+    "url": "/photos/asset_016.webp",
+    "thumbnailUrl": "/photos/asset_016.webp",
+    "title": "ENT Care Centre Allergy & Sinus Rx",
+    "contentType": "Document",
+    "date": "2024-10-15T16:00:00Z",
+    "approxDateLabel": "October 2024",
+    "year": 2024,
+    "location": {
+      "city": "Bengaluru",
+      "placeName": "Bangalore ENT Care, Indiranagar",
+      "category": "Clinic"
+    },
+    "people": [
+      "Pradeep",
+      "Dr. Joshi"
+    ],
+    "visualAttributes": {
+      "dominantColors": [
+        "#FFFFFF",
+        "#1A73E8"
+      ],
+      "paperType": "White paper"
+    },
+    "ocrText": "Bangalore ENT Care ... Allergic Rhinitis & Sinusitis ... Rx Montair-LC bedtime, Otrivin nasal spray 3 days, Steam",
+    "description": "White paper prescription sheet for severe runny nose, cold, and blocked sinuses.",
+    "semanticTags": [
+      "prescription",
+      "cold",
+      "clinic",
+      "october 2024",
+      "ent",
+      "montair",
+      "white paper",
+      "bengaluru"
+    ],
+    "documentSubType": "Prescription",
+    "condition": "Cold"
+  },
+  {
+    "id": "asset_017",
+    "url": "/photos/asset_017.webp",
+    "thumbnailUrl": "/photos/asset_017.webp",
+    "title": "Fortis Hospital Bronchitis Prescription",
+    "contentType": "Document",
+    "date": "2024-12-08T11:45:00Z",
+    "approxDateLabel": "December 2024",
+    "year": 2024,
+    "location": {
+      "city": "Bengaluru",
+      "placeName": "Fortis Hospital, Cunningham Road",
+      "category": "Hospital"
+    },
+    "people": [
+      "Pradeep",
+      "Dr. Nataraj"
+    ],
+    "visualAttributes": {
+      "dominantColors": [
+        "#F8F9FA",
+        "#34A853"
+      ],
+      "paperType": "Printed form"
+    },
+    "ocrText": "Fortis Pulmonology ... Chest congestion & wet cough ... Rx Ascoril-LS syrup, Levocetirizine 5mg, Budecort inhaler",
+    "description": "Printed hospital prescription for winter chest cold, persistent coughing, and throat congestion.",
+    "semanticTags": [
+      "prescription",
+      "cold",
+      "hospital",
+      "december 2024",
+      "fortis",
+      "cough syrup",
+      "printed form",
+      "bengaluru"
+    ],
+    "documentSubType": "Prescription",
+    "condition": "Cold"
+  },
+  {
+    "id": "asset_018",
+    "url": "/photos/asset_018.webp",
+    "thumbnailUrl": "/photos/asset_018.webp",
+    "title": "Arogya Wellness Clinic Cold & Flu Slip",
+    "contentType": "Document",
+    "date": "2023-08-30T18:20:00Z",
+    "approxDateLabel": "August 2023",
+    "year": 2023,
+    "location": {
+      "city": "Bengaluru",
+      "placeName": "Arogya Clinic, HSR Layout",
+      "category": "Clinic"
+    },
+    "people": [
+      "Pradeep",
+      "Dr. Shweta"
+    ],
+    "visualAttributes": {
+      "dominantColors": [
+        "#FFF8E1",
+        "#E37400"
+      ],
+      "paperType": "Prescription pad"
+    },
+    "ocrText": "Arogya Clinic HSR ... Common Cold & Sore Throat ... Rx Sinarest tab TDS x 3 days, Betadine gargle ... Warm water only",
+    "description": "Clinic prescription pad note for sudden monsoon cold, sneezing, and sore throat.",
+    "semanticTags": [
+      "prescription",
+      "cold",
+      "clinic",
+      "august 2023",
+      "prescription pad",
+      "sinarest",
+      "bengaluru"
+    ],
+    "documentSubType": "Prescription",
+    "condition": "Cold"
+  },
+  {
+    "id": "asset_019",
+    "url": "/photos/asset_019.webp",
+    "thumbnailUrl": "/photos/asset_019.webp",
+    "title": "Dr. Lal PathLabs & Clinic Cold Consult",
+    "contentType": "Document",
+    "date": "2025-01-28T10:30:00Z",
+    "approxDateLabel": "January 2025",
+    "year": 2025,
+    "location": {
+      "city": "Delhi",
+      "placeName": "Dr. Lal Clinic, Connaught Place",
+      "category": "Clinic"
+    },
+    "people": [
+      "Pradeep",
+      "Dr. Mathur"
+    ],
+    "visualAttributes": {
+      "dominantColors": [
+        "#FFFFFF",
+        "#185ABC"
+      ],
+      "paperType": "White paper"
+    },
+    "ocrText": "Dr. Lal Clinic ... Winter pollution smog allergy ... Rx Allegra 120mg OD, Flomist nasal spray ... Avoid outdoor morning runs",
+    "description": "Doctor prescription sheet for Delhi winter smog allergy and nasal congestion.",
+    "semanticTags": [
+      "prescription",
+      "cold",
+      "clinic",
+      "january 2025",
+      "delhi",
+      "allegra",
+      "white paper"
+    ],
+    "documentSubType": "Prescription",
+    "condition": "Cold"
+  },
+  {
+    "id": "asset_020",
+    "url": "/photos/asset_020.webp",
+    "thumbnailUrl": "/photos/asset_020.webp",
+    "title": "Hosmat Orthopedic Hospital Back Pain Rx",
+    "contentType": "Document",
+    "date": "2024-07-16T15:00:00Z",
+    "approxDateLabel": "July 2024",
+    "year": 2024,
+    "location": {
+      "city": "Bengaluru",
+      "placeName": "Hosmat Hospital, Magrath Road",
+      "category": "Hospital"
+    },
+    "people": [
+      "Pradeep",
+      "Dr. Thomas"
+    ],
+    "visualAttributes": {
+      "dominantColors": [
+        "#FFFFFF",
+        "#B31412"
+      ],
+      "paperType": "Printed form"
+    },
+    "ocrText": "Hosmat Orthopaedic & Joint Centre ... Acute lumbar muscle spasm ... Rx Zerodol-SP BD x 5 days, Thiocolchicoside, Lumbar belt ... Physiotherapy",
+    "description": "Hospital prescription document for lower back pain, muscle stiffness, and anti-inflammatory painkillers.",
+    "semanticTags": [
+      "prescription",
+      "pain",
+      "hospital",
+      "july 2024",
+      "hosmat",
+      "zerodol",
+      "printed form",
+      "bengaluru"
+    ],
+    "documentSubType": "Prescription",
+    "condition": "Pain"
+  },
+  {
+    "id": "asset_021",
+    "url": "/photos/asset_021.webp",
+    "thumbnailUrl": "/photos/asset_021.webp",
+    "title": "Spine & Joint Sports Medicine Clinic Rx",
+    "contentType": "Document",
+    "date": "2024-11-05T09:40:00Z",
+    "approxDateLabel": "November 2024",
+    "year": 2024,
+    "location": {
+      "city": "Bengaluru",
+      "placeName": "ProActive Spine Clinic, Koramangala",
+      "category": "Clinic"
+    },
+    "people": [
+      "Pradeep",
+      "Dr. Aryan"
+    ],
+    "visualAttributes": {
+      "dominantColors": [
+        "#FFFFFF",
+        "#1A73E8"
+      ],
+      "paperType": "White paper"
+    },
+    "ocrText": "ProActive Sports Medicine ... Ankle ligament sprain ... Rx Etoricoxib 90mg OD, Volini gel, Ice compression 20 mins",
+    "description": "Sports clinic prescription note for sprained ankle swelling and joint pain.",
+    "semanticTags": [
+      "prescription",
+      "pain",
+      "clinic",
+      "november 2024",
+      "koramangala",
+      "white paper",
+      "bengaluru"
+    ],
+    "documentSubType": "Prescription",
+    "condition": "Pain"
+  },
+  {
+    "id": "asset_022",
+    "url": "/photos/asset_022.webp",
+    "thumbnailUrl": "/photos/asset_022.webp",
+    "title": "Clove Dental Toothache & Extraction Rx",
+    "contentType": "Document",
+    "date": "2023-12-14T17:15:00Z",
+    "approxDateLabel": "December 2023",
+    "year": 2023,
+    "location": {
+      "city": "Bengaluru",
+      "placeName": "Clove Dental, Bellandur",
+      "category": "Clinic"
+    },
+    "people": [
+      "Pradeep",
+      "Dr. Nidhi"
+    ],
+    "visualAttributes": {
+      "dominantColors": [
+        "#E8F0FE",
+        "#1967D2"
+      ],
+      "paperType": "Prescription pad"
+    },
+    "ocrText": "Clove Dental Clinic ... Wisdom tooth extraction post-op ... Rx Ketorol-DT SOS for severe pain, Augmentin 625, Chlorhexidine mouthwash",
+    "description": "Dental clinic prescription pad slip with instructions for wisdom tooth extraction pain relief.",
+    "semanticTags": [
+      "prescription",
+      "pain",
+      "clinic",
+      "december 2023",
+      "dental",
+      "prescription pad",
+      "bengaluru"
+    ],
+    "documentSubType": "Prescription",
+    "condition": "Pain"
+  },
+  {
+    "id": "asset_023",
+    "url": "/photos/asset_023.webp",
+    "thumbnailUrl": "/photos/asset_023.webp",
+    "title": "Kaya Skin Clinic Eczema Prescription",
+    "contentType": "Document",
+    "date": "2024-04-25T14:00:00Z",
+    "approxDateLabel": "April 2024",
+    "year": 2024,
+    "location": {
+      "city": "Bengaluru",
+      "placeName": "Kaya Skin Clinic, Indiranagar",
+      "category": "Clinic"
+    },
+    "people": [
+      "Pradeep",
+      "Dr. Pooja"
+    ],
+    "visualAttributes": {
+      "dominantColors": [
+        "#FCE8E6",
+        "#D93025"
+      ],
+      "paperType": "Pink slip"
+    },
+    "ocrText": "Kaya Clinic Indiranagar ... Contact dermatitis / eczema rash ... Rx Desonide 0.05% cream, Cetaphil moisturising lotion, Bilastine 20mg",
+    "description": "Dermatology clinic prescription on pink paper for skin allergy rash and soothing ointment.",
+    "semanticTags": [
+      "prescription",
+      "skin",
+      "clinic",
+      "april 2024",
+      "kaya clinic",
+      "pink slip",
+      "bengaluru"
+    ],
+    "documentSubType": "Prescription",
+    "condition": "Skin"
+  },
+  {
+    "id": "asset_024",
+    "url": "/photos/asset_024.webp",
+    "thumbnailUrl": "/photos/asset_024.webp",
+    "title": "Skin & Hair Specialty Centre Prescription",
+    "contentType": "Document",
+    "date": "2024-08-30T11:15:00Z",
+    "approxDateLabel": "August 2024",
+    "year": 2024,
+    "location": {
+      "city": "Bengaluru",
+      "placeName": "Dermacare Centre, Whitefield",
+      "category": "Clinic"
+    },
+    "people": [
+      "Pradeep",
+      "Dr. Revathi"
+    ],
+    "visualAttributes": {
+      "dominantColors": [
+        "#FFFFFF",
+        "#7057FF"
+      ],
+      "paperType": "White paper"
+    },
+    "ocrText": "Dermacare Specialty ... Fungal skin infection ... Rx Sertaconazole cream twice daily, Itraconazole 100mg capsules x 14 days",
+    "description": "Prescription sheet from Whitefield skin clinic for topical ointment and antifungal pills.",
+    "semanticTags": [
+      "prescription",
+      "skin",
+      "clinic",
+      "august 2024",
+      "white paper",
+      "whitefield",
+      "bengaluru"
+    ],
+    "documentSubType": "Prescription",
+    "condition": "Skin"
+  },
+  {
+    "id": "asset_025",
+    "url": "/photos/asset_025.webp",
+    "thumbnailUrl": "/photos/asset_025.webp",
+    "title": "Manipal Hospital Dermatology OPD Slip",
+    "contentType": "Document",
+    "date": "2025-02-04T16:30:00Z",
+    "approxDateLabel": "February 2025",
+    "year": 2025,
+    "location": {
+      "city": "Bengaluru",
+      "placeName": "Manipal Hospital, Jayanagar",
+      "category": "Hospital"
+    },
+    "people": [
+      "Pradeep",
+      "Dr. Sunil"
+    ],
+    "visualAttributes": {
+      "dominantColors": [
+        "#F8F9FA",
+        "#1E8E3E"
+      ],
+      "paperType": "Printed form"
+    },
+    "ocrText": "Manipal Hospitals Dermatology ... Urticaria hives outbreak ... Rx Fexofenadine 180mg BD, Calamine lotion application",
+    "description": "Hospital OPD form with doctor's stamp for allergic hives and skin rash treatment.",
+    "semanticTags": [
+      "prescription",
+      "skin",
+      "hospital",
+      "february 2025",
+      "manipal hospital",
+      "printed form",
+      "bengaluru"
+    ],
+    "documentSubType": "Prescription",
+    "condition": "Skin"
+  },
+  {
+    "id": "asset_026",
+    "url": "/photos/asset_026.webp",
+    "thumbnailUrl": "/photos/asset_026.webp",
+    "title": "MedPlus Pharmacy Invoice - Vomistop & ORS",
+    "contentType": "Document",
+    "date": "2024-08-18T15:10:00Z",
+    "approxDateLabel": "August 2024",
+    "year": 2024,
+    "location": {
+      "city": "Bengaluru",
+      "placeName": "MedPlus Pharmacy, Koramangala",
+      "category": "Hospital"
+    },
+    "people": [
+      "Pradeep"
+    ],
+    "visualAttributes": {
+      "dominantColors": [
+        "#F1F3F4",
+        "#1A73E8"
+      ],
+      "paperType": "Printed form"
+    },
+    "ocrText": "MedPlus Pharmacy Tax Invoice ... Ref Prescription: Dr. Rao ... Items: Tab Vomistop 10mg strip of 10, Electral Powder 21.8g x 4 ... Total: Rs 148.00",
+    "description": "Printed pharmacy medicine purchase bill for vomiting tablets and hydration sachets dispensed against doctor prescription.",
+    "semanticTags": [
+      "prescription",
+      "vomiting",
+      "bill",
+      "hospital",
+      "august 2024",
+      "medplus",
+      "pharmacy",
+      "medicine",
+      "printed form",
+      "bengaluru"
+    ],
+    "documentSubType": "Bill",
+    "condition": "Vomiting"
+  },
+  {
+    "id": "asset_027",
+    "url": "/photos/asset_027.webp",
+    "thumbnailUrl": "/photos/asset_027.webp",
+    "title": "Apollo Homecare Doctor Visit Receipt",
+    "contentType": "Document",
+    "date": "2024-09-14T20:30:00Z",
+    "approxDateLabel": "September 2024",
+    "year": 2024,
+    "location": {
+      "city": "Bengaluru",
+      "placeName": "Apollo Homecare Visit",
+      "category": "Home"
+    },
+    "people": [
+      "Pradeep",
+      "Dr. Mehta"
+    ],
+    "visualAttributes": {
+      "dominantColors": [
+        "#FFFFFF",
+        "#34A853"
+      ],
+      "paperType": "White paper"
+    },
+    "ocrText": "Apollo Home Care Consultation Receipt ... Doctor visit at home ... Patient attended for dehydration & vomiting ... Prescription copy attached ... Amount paid: Rs 1,200",
+    "description": "Cash receipt with prescription copy attached for emergency home visit by doctor during acute vomiting illness.",
+    "semanticTags": [
+      "prescription",
+      "vomiting",
+      "receipt",
+      "home",
+      "september 2024",
+      "apollo",
+      "doctor",
+      "white paper",
+      "bengaluru"
+    ],
+    "documentSubType": "Receipt",
+    "condition": "Vomiting"
+  },
+  {
+    "id": "asset_028",
+    "url": "/photos/asset_028.webp",
+    "thumbnailUrl": "/photos/asset_028.webp",
+    "title": "Fortis Hospital Inpatient Billing Summary",
+    "contentType": "Document",
+    "date": "2025-01-16T18:00:00Z",
+    "approxDateLabel": "January 2025",
+    "year": 2025,
+    "location": {
+      "city": "Bengaluru",
+      "placeName": "Fortis Hospital Billing Counter",
+      "category": "Hospital"
+    },
+    "people": [
+      "Pradeep"
+    ],
+    "visualAttributes": {
+      "dominantColors": [
+        "#FFFFFF",
+        "#D93025"
+      ],
+      "paperType": "Printed form"
+    },
+    "ocrText": "Fortis Healthcare Billing ... Daycare admission for gastroenteritis & vomiting ... IV fluids, ondansetron infusion, prescription charges",
+    "description": "Hospital daycare invoice detailing IV drip charges and anti-vomiting medication prescription line items.",
+    "semanticTags": [
+      "prescription",
+      "vomiting",
+      "bill",
+      "hospital",
+      "january 2025",
+      "fortis",
+      "printed form",
+      "bengaluru"
+    ],
+    "documentSubType": "Bill",
+    "condition": "Vomiting"
+  },
+  {
+    "id": "asset_029",
+    "url": "/photos/asset_029.webp",
+    "thumbnailUrl": "/photos/asset_029.webp",
+    "title": "Apollo Pharmacy Bill - Nausea Syrup",
+    "contentType": "Document",
+    "date": "2025-02-19T17:15:00Z",
+    "approxDateLabel": "February 2025",
+    "year": 2025,
+    "location": {
+      "city": "Bengaluru",
+      "placeName": "Apollo Pharmacy, Jayanagar",
+      "category": "Clinic"
+    },
+    "people": [
+      "Sneha"
+    ],
+    "visualAttributes": {
+      "dominantColors": [
+        "#F8F9FA",
+        "#1E8E3E"
+      ],
+      "paperType": "Printed form"
+    },
+    "ocrText": "Apollo Pharmacy ... Dispensed against Cloudnine prescription ... Pediatric nausea syrup, gripe water ... Total: Rs 280",
+    "description": "Cash register receipt from Apollo Pharmacy for pediatric anti-vomiting syrup.",
+    "semanticTags": [
+      "prescription",
+      "vomiting",
+      "bill",
+      "clinic",
+      "february 2025",
+      "apollo pharmacy",
+      "printed form",
+      "bengaluru"
+    ],
+    "documentSubType": "Bill",
+    "condition": "Vomiting"
+  },
+  {
+    "id": "asset_030",
+    "url": "/photos/asset_030.webp",
+    "thumbnailUrl": "/photos/asset_030.webp",
+    "title": "Handwritten Note - Vomiting Med Timings",
+    "contentType": "Document",
+    "date": "2025-03-02T08:00:00Z",
+    "approxDateLabel": "March 2025",
+    "year": 2025,
+    "location": {
+      "city": "Bengaluru",
+      "placeName": "Kitchen Counter Sticky Note",
+      "category": "Home"
+    },
+    "people": [
+      "Pradeep"
+    ],
+    "visualAttributes": {
+      "dominantColors": [
+        "#FFF9C4",
+        "#F57F17"
+      ],
+      "paperType": "White paper"
+    },
+    "ocrText": "Medicine Schedule from Doctor Prescription: 8:00 AM - Vomistop before food ... 1:00 PM - Electral water ... 8:00 PM - Light khichdi",
+    "description": "Handwritten sticky note summarizing medication schedule taken from doctor's vomiting prescription.",
+    "semanticTags": [
+      "prescription",
+      "vomiting",
+      "handwritten note",
+      "home",
+      "march 2025",
+      "white paper",
+      "bengaluru"
+    ],
+    "documentSubType": "Handwritten Note",
+    "condition": "Vomiting"
+  },
+  {
+    "id": "asset_031",
+    "url": "/photos/asset_031.webp",
+    "thumbnailUrl": "/photos/asset_031.webp",
+    "title": "Wellness Forever Chemist Cash Slip",
+    "contentType": "Document",
+    "date": "2025-01-20T21:00:00Z",
+    "approxDateLabel": "January 2025",
+    "year": 2025,
+    "location": {
+      "city": "Bengaluru",
+      "placeName": "Wellness Forever, Indiranagar",
+      "category": "Clinic"
+    },
+    "people": [
+      "Pradeep"
+    ],
+    "visualAttributes": {
+      "dominantColors": [
+        "#FFFFFF",
+        "#1A73E8"
+      ],
+      "paperType": "Printed form"
+    },
+    "ocrText": "Wellness Forever 24x7 ... Rx verify code: 9942 ... Anti-emetic Domperidone, Gelusil ... Pharmacist sign",
+    "description": "Thermal paper register receipt from 24/7 chemist for prescription anti-emetic tablets.",
+    "semanticTags": [
+      "prescription",
+      "vomiting",
+      "receipt",
+      "clinic",
+      "january 2025",
+      "printed form",
+      "bengaluru"
+    ],
+    "documentSubType": "Receipt",
+    "condition": "Vomiting"
+  },
+  {
+    "id": "asset_032",
+    "url": "/photos/asset_032.webp",
+    "thumbnailUrl": "/photos/asset_032.webp",
+    "title": "Narayana Hrudayalaya Pharmacy Receipt",
+    "contentType": "Document",
+    "date": "2023-07-23T10:00:00Z",
+    "approxDateLabel": "July 2023",
+    "year": 2023,
+    "location": {
+      "city": "Bengaluru",
+      "placeName": "Narayana Health Pharmacy Counter",
+      "category": "Hospital"
+    },
+    "people": [
+      "Pradeep"
+    ],
+    "visualAttributes": {
+      "dominantColors": [
+        "#F1F3F4",
+        "#5F6368"
+      ],
+      "paperType": "Printed form"
+    },
+    "ocrText": "Narayana Health Dispensary ... Gastro prescription bill ... Itopride, Rabeprazole capsules ... Paid via UPI",
+    "description": "Pharmacy counter transaction receipt for digestive and vomiting medication.",
+    "semanticTags": [
+      "prescription",
+      "vomiting",
+      "receipt",
+      "hospital",
+      "july 2023",
+      "narayana health",
+      "printed form",
+      "bengaluru"
+    ],
+    "documentSubType": "Receipt",
+    "condition": "Vomiting"
+  },
+  {
+    "id": "asset_033",
+    "url": "/photos/asset_033.webp",
+    "thumbnailUrl": "/photos/asset_033.webp",
+    "title": "Clinic Consultation Fee Receipt",
+    "contentType": "Document",
+    "date": "2023-10-11T19:30:00Z",
+    "approxDateLabel": "October 2023",
+    "year": 2023,
+    "location": {
+      "city": "Bengaluru",
+      "placeName": "Dr. Baliga Clinic Reception",
+      "category": "Clinic"
+    },
+    "people": [
+      "Pradeep"
+    ],
+    "visualAttributes": {
+      "dominantColors": [
+        "#FFFFFF",
+        "#202124"
+      ],
+      "paperType": "White paper"
+    },
+    "ocrText": "Dr. Baliga Clinic ... Patient Consultation Fee Rs 500 ... Cause of visit: Acute food poisoning & vomiting ... Prescription handed to patient",
+    "description": "Payment receipt slip acknowledging doctor consultation and issuance of medicine prescription.",
+    "semanticTags": [
+      "prescription",
+      "vomiting",
+      "receipt",
+      "clinic",
+      "october 2023",
+      "white paper",
+      "bengaluru"
+    ],
+    "documentSubType": "Receipt",
+    "condition": "Vomiting"
+  },
+  {
+    "id": "asset_034",
+    "url": "/photos/asset_034.webp",
+    "thumbnailUrl": "/photos/asset_034.webp",
+    "title": "Emergency Medical Kit Medication Note",
+    "contentType": "Document",
+    "date": "2022-12-01T12:00:00Z",
+    "approxDateLabel": "December 2022",
+    "year": 2022,
+    "location": {
+      "city": "Bengaluru",
+      "placeName": "Home First Aid Box",
+      "category": "Home"
+    },
+    "people": [
+      "Pradeep"
+    ],
+    "visualAttributes": {
+      "dominantColors": [
+        "#E8F0FE",
+        "#1967D2"
+      ],
+      "paperType": "White paper"
+    },
+    "ocrText": "First Aid Box Checklist: Expiry Check on Dr. Rao's old prescription tablets ... Vomistop strip exp 2025 ... ORS sachets present",
+    "description": "Handwritten paper note inside medicine box listing prescription pills for vomiting and motion sickness.",
+    "semanticTags": [
+      "prescription",
+      "vomiting",
+      "handwritten note",
+      "home",
+      "december 2022",
+      "earlier",
+      "white paper",
+      "bengaluru"
+    ],
+    "documentSubType": "Handwritten Note",
+    "condition": "Vomiting"
+  },
+  {
+    "id": "asset_035",
+    "url": "/photos/asset_035.webp",
+    "thumbnailUrl": "/photos/asset_035.webp",
+    "title": "Max Hospital Saket Diagnostic Lab Bill",
+    "contentType": "Document",
+    "date": "2024-05-10T12:30:00Z",
+    "approxDateLabel": "May 2024",
+    "year": 2024,
+    "location": {
+      "city": "Delhi",
+      "placeName": "Max Hospital Pathology Lab",
+      "category": "Hospital"
+    },
+    "people": [
+      "Pradeep"
+    ],
+    "visualAttributes": {
+      "dominantColors": [
+        "#FFFFFF",
+        "#1A73E8"
+      ],
+      "paperType": "Printed form"
+    },
+    "ocrText": "Max Pathology ... Prescription test order: Widal test, Dengue NS1 antigen, Complete hemogram ... Fever profile panel",
+    "description": "Diagnostic lab invoice for blood work ordered on fever prescription.",
+    "semanticTags": [
+      "prescription",
+      "fever",
+      "bill",
+      "hospital",
+      "may 2024",
+      "delhi",
+      "max hospital",
+      "printed form"
+    ],
+    "documentSubType": "Bill",
+    "condition": "Fever"
+  },
+  {
+    "id": "asset_036",
+    "url": "/photos/asset_036.webp",
+    "thumbnailUrl": "/photos/asset_036.webp",
+    "title": "Apollo Pharmacy Bill - Dolo 650 & Zinc",
+    "contentType": "Document",
+    "date": "2024-09-06T09:00:00Z",
+    "approxDateLabel": "September 2024",
+    "year": 2024,
+    "location": {
+      "city": "Bengaluru",
+      "placeName": "Apollo Pharmacy, Koramangala",
+      "category": "Clinic"
+    },
+    "people": [
+      "Pradeep"
+    ],
+    "visualAttributes": {
+      "dominantColors": [
+        "#F8F9FA",
+        "#34A853"
+      ],
+      "paperType": "Printed form"
+    },
+    "ocrText": "Apollo Pharmacy ... Prescription Ref #9201 ... Dolo 650 strip x 2, Vitamin C chewables ... Cash receipt",
+    "description": "Printed pharmacy receipt for fever tablets purchased near clinic.",
+    "semanticTags": [
+      "prescription",
+      "fever",
+      "receipt",
+      "clinic",
+      "september 2024",
+      "apollo",
+      "printed form",
+      "bengaluru"
+    ],
+    "documentSubType": "Receipt",
+    "condition": "Fever"
+  },
+  {
+    "id": "asset_037",
+    "url": "/photos/asset_037.webp",
+    "thumbnailUrl": "/photos/asset_037.webp",
+    "title": "Manipal Hospital OPD Registration Slip",
+    "contentType": "Document",
+    "date": "2025-02-10T11:00:00Z",
+    "approxDateLabel": "February 2025",
+    "year": 2025,
+    "location": {
+      "city": "Bengaluru",
+      "placeName": "Manipal Hospital Registration Desk",
+      "category": "Hospital"
+    },
+    "people": [
+      "Pradeep"
+    ],
+    "visualAttributes": {
+      "dominantColors": [
+        "#FFFFFF",
+        "#185ABC"
+      ],
+      "paperType": "Printed form"
+    },
+    "ocrText": "Manipal Hospitals ... General Medicine OPD Token ... Chief complaint: High fever 3 days ... Prescription copy attached",
+    "description": "Hospital OPD entry registration token slip with doctor prescription attached.",
+    "semanticTags": [
+      "prescription",
+      "fever",
+      "receipt",
+      "hospital",
+      "february 2025",
+      "manipal hospital",
+      "printed form",
+      "bengaluru"
+    ],
+    "documentSubType": "Receipt",
+    "condition": "Fever"
+  },
+  {
+    "id": "asset_038",
+    "url": "/photos/asset_038.webp",
+    "thumbnailUrl": "/photos/asset_038.webp",
+    "title": "Handwritten Temperature & Dolo Log",
+    "contentType": "Document",
+    "date": "2024-03-20T07:30:00Z",
+    "approxDateLabel": "March 2024",
+    "year": 2024,
+    "location": {
+      "city": "Chennai",
+      "placeName": "Bedside Table",
+      "category": "Home"
+    },
+    "people": [
+      "Pradeep"
+    ],
+    "visualAttributes": {
+      "dominantColors": [
+        "#FFFFFF",
+        "#D93025"
+      ],
+      "paperType": "White paper"
+    },
+    "ocrText": "Fever Chart per Dr. Mohan Rx: 6 AM: 101.4F - Dolo 650 taken ... 12 PM: 99.8F ... 6 PM: 102.0F - Cold compress applied",
+    "description": "Handwritten paper fever chart tracking hourly temperatures as advised on doctor's prescription.",
+    "semanticTags": [
+      "prescription",
+      "fever",
+      "handwritten note",
+      "home",
+      "march 2024",
+      "white paper",
+      "chennai"
+    ],
+    "documentSubType": "Handwritten Note",
+    "condition": "Fever"
+  },
+  {
+    "id": "asset_039",
+    "url": "/photos/asset_039.webp",
+    "thumbnailUrl": "/photos/asset_039.webp",
+    "title": "Thyrocare Fever Profile Lab Receipt",
+    "contentType": "Document",
+    "date": "2023-11-03T08:00:00Z",
+    "approxDateLabel": "November 2023",
+    "year": 2023,
+    "location": {
+      "city": "Bengaluru",
+      "placeName": "Thyrocare Home Collection",
+      "category": "Home"
+    },
+    "people": [
+      "Pradeep"
+    ],
+    "visualAttributes": {
+      "dominantColors": [
+        "#F1F3F4",
+        "#0F9D58"
+      ],
+      "paperType": "Printed form"
+    },
+    "ocrText": "Thyrocare Home Blood Collection ... Prescription attached: Dr. Kavita ... Tests: Malaria parasite, CBC ... Total Rs 850",
+    "description": "Printed home diagnostic receipt for fever investigations.",
+    "semanticTags": [
+      "prescription",
+      "fever",
+      "receipt",
+      "home",
+      "november 2023",
+      "printed form",
+      "bengaluru"
+    ],
+    "documentSubType": "Receipt",
+    "condition": "Fever"
+  },
+  {
+    "id": "asset_040",
+    "url": "/photos/asset_040.webp",
+    "thumbnailUrl": "/photos/asset_040.webp",
+    "title": "Guardian Pharmacy Bill - Paracetamol & ORS",
+    "contentType": "Document",
+    "date": "2024-05-11T14:00:00Z",
+    "approxDateLabel": "May 2024",
+    "year": 2024,
+    "location": {
+      "city": "Delhi",
+      "placeName": "Guardian Pharmacy, Saket",
+      "category": "Hospital"
+    },
+    "people": [
+      "Pradeep"
+    ],
+    "visualAttributes": {
+      "dominantColors": [
+        "#FFFFFF",
+        "#202124"
+      ],
+      "paperType": "Printed form"
+    },
+    "ocrText": "Guardian Pharmacy Saket ... Prescription order medicines ... Azithromycin 500mg, Calpol ... Total Rs 312",
+    "description": "Pharmacy tax invoice for antibiotic and fever medication.",
+    "semanticTags": [
+      "prescription",
+      "fever",
+      "bill",
+      "hospital",
+      "may 2024",
+      "delhi",
+      "printed form"
+    ],
+    "documentSubType": "Bill",
+    "condition": "Fever"
+  },
+  {
+    "id": "asset_041",
+    "url": "/photos/asset_041.webp",
+    "thumbnailUrl": "/photos/asset_041.webp",
+    "title": "Sri Krishna Clinic Lab Test Slip",
+    "contentType": "Document",
+    "date": "2023-04-19T09:00:00Z",
+    "approxDateLabel": "April 2023",
+    "year": 2023,
+    "location": {
+      "city": "Bengaluru",
+      "placeName": "Sri Krishna Nursing Home Lab",
+      "category": "Clinic"
+    },
+    "people": [
+      "Sneha"
+    ],
+    "visualAttributes": {
+      "dominantColors": [
+        "#FCE8E6",
+        "#C5221F"
+      ],
+      "paperType": "White paper"
+    },
+    "ocrText": "Sri Krishna Clinic Lab ... Doctor prescription order for platelet count and viral screen ... Paid in cash Rs 350",
+    "description": "Small pink receipt for fever test ordered at local nursing home.",
+    "semanticTags": [
+      "prescription",
+      "fever",
+      "bill",
+      "clinic",
+      "april 2023",
+      "white paper",
+      "bengaluru"
+    ],
+    "documentSubType": "Bill",
+    "condition": "Fever"
+  },
+  {
+    "id": "asset_042",
+    "url": "/photos/asset_042.webp",
+    "thumbnailUrl": "/photos/asset_042.webp",
+    "title": "Apollo Pharmacy Bill - Inhaler & Cetirizine",
+    "contentType": "Document",
+    "date": "2024-10-15T17:00:00Z",
+    "approxDateLabel": "October 2024",
+    "year": 2024,
+    "location": {
+      "city": "Bengaluru",
+      "placeName": "Apollo Pharmacy, Indiranagar",
+      "category": "Clinic"
+    },
+    "people": [
+      "Pradeep"
+    ],
+    "visualAttributes": {
+      "dominantColors": [
+        "#F8F9FA",
+        "#1A73E8"
+      ],
+      "paperType": "Printed form"
+    },
+    "ocrText": "Apollo Pharmacy Indiranagar ... Prescription #8182 ... Montair-LC, Nasal saline wash ... Total: Rs 420.00",
+    "description": "Pharmacy bill for allergy and sinus prescription medicines.",
+    "semanticTags": [
+      "prescription",
+      "cold",
+      "bill",
+      "clinic",
+      "october 2024",
+      "apollo",
+      "printed form",
+      "bengaluru"
+    ],
+    "documentSubType": "Bill",
+    "condition": "Cold"
+  },
+  {
+    "id": "asset_043",
+    "url": "/photos/asset_043.webp",
+    "thumbnailUrl": "/photos/asset_043.webp",
+    "title": "Fortis Hospital Pharmacy Discharge Bill",
+    "contentType": "Document",
+    "date": "2024-12-08T13:00:00Z",
+    "approxDateLabel": "December 2024",
+    "year": 2024,
+    "location": {
+      "city": "Bengaluru",
+      "placeName": "Fortis Pharmacy Counter",
+      "category": "Hospital"
+    },
+    "people": [
+      "Pradeep"
+    ],
+    "visualAttributes": {
+      "dominantColors": [
+        "#FFFFFF",
+        "#34A853"
+      ],
+      "paperType": "Printed form"
+    },
+    "ocrText": "Fortis Healthcare Dispensary ... Pulmonology Rx ... Ascoril cough syrup, Budesonide respules ... Total Rs 685",
+    "description": "Discharge pharmacy bill for bronchitis prescription.",
+    "semanticTags": [
+      "prescription",
+      "cold",
+      "bill",
+      "hospital",
+      "december 2024",
+      "fortis",
+      "printed form",
+      "bengaluru"
+    ],
+    "documentSubType": "Bill",
+    "condition": "Cold"
+  },
+  {
+    "id": "asset_044",
+    "url": "/photos/asset_044.webp",
+    "thumbnailUrl": "/photos/asset_044.webp",
+    "title": "MedPlus Chemist Bill - Sinarest & Lozenges",
+    "contentType": "Document",
+    "date": "2023-08-30T19:00:00Z",
+    "approxDateLabel": "August 2023",
+    "year": 2023,
+    "location": {
+      "city": "Bengaluru",
+      "placeName": "MedPlus HSR Layout",
+      "category": "Clinic"
+    },
+    "people": [
+      "Pradeep"
+    ],
+    "visualAttributes": {
+      "dominantColors": [
+        "#F1F3F4",
+        "#E37400"
+      ],
+      "paperType": "Printed form"
+    },
+    "ocrText": "MedPlus Pharmacy ... Rx items: Sinarest strip, Strepsils warm sensation ... Total Rs 115",
+    "description": "Retail pharmacy cash receipt for common cold medicines.",
+    "semanticTags": [
+      "prescription",
+      "cold",
+      "receipt",
+      "clinic",
+      "august 2023",
+      "printed form",
+      "bengaluru"
+    ],
+    "documentSubType": "Receipt",
+    "condition": "Cold"
+  },
+  {
+    "id": "asset_045",
+    "url": "/photos/asset_045.webp",
+    "thumbnailUrl": "/photos/asset_045.webp",
+    "title": "Handwritten Note - Home Remedies for Cold",
+    "contentType": "Document",
+    "date": "2024-11-12T10:00:00Z",
+    "approxDateLabel": "November 2024",
+    "year": 2024,
+    "location": {
+      "city": "Bengaluru",
+      "placeName": "Study Desk",
+      "category": "Home"
+    },
+    "people": [
+      "Pradeep"
+    ],
+    "visualAttributes": {
+      "dominantColors": [
+        "#FFFFFF",
+        "#5F6368"
+      ],
+      "paperType": "White paper"
+    },
+    "ocrText": "Notes from Doctor consult & prescription: Turmeric milk at night, steam with eucalyptus twice a day, take Montair before sleep",
+    "description": "Handwritten note on white notepad listing home care steps from doctor's cold prescription.",
+    "semanticTags": [
+      "prescription",
+      "cold",
+      "handwritten note",
+      "home",
+      "november 2024",
+      "white paper",
+      "bengaluru"
+    ],
+    "documentSubType": "Handwritten Note",
+    "condition": "Cold"
+  },
+  {
+    "id": "asset_046",
+    "url": "/photos/asset_046.webp",
+    "thumbnailUrl": "/photos/asset_046.webp",
+    "title": "Apollo Pharmacy Connaught Place Receipt",
+    "contentType": "Document",
+    "date": "2025-01-28T11:45:00Z",
+    "approxDateLabel": "January 2025",
+    "year": 2025,
+    "location": {
+      "city": "Delhi",
+      "placeName": "Apollo Pharmacy CP",
+      "category": "Clinic"
+    },
+    "people": [
+      "Pradeep"
+    ],
+    "visualAttributes": {
+      "dominantColors": [
+        "#FFFFFF",
+        "#185ABC"
+      ],
+      "paperType": "Printed form"
+    },
+    "ocrText": "Apollo Pharmacy Delhi ... Allegra 120mg x 10 tabs, Flomist spray ... Prescribed by Dr. Mathur",
+    "description": "Medical store bill for Delhi pollution allergy prescription items.",
+    "semanticTags": [
+      "prescription",
+      "cold",
+      "receipt",
+      "clinic",
+      "january 2025",
+      "delhi",
+      "printed form"
+    ],
+    "documentSubType": "Receipt",
+    "condition": "Cold"
+  },
+  {
+    "id": "asset_047",
+    "url": "/photos/asset_047.webp",
+    "thumbnailUrl": "/photos/asset_047.webp",
+    "title": "Hosmat Hospital Pharmacy Pain Meds Bill",
+    "contentType": "Document",
+    "date": "2024-07-16T16:00:00Z",
+    "approxDateLabel": "July 2024",
+    "year": 2024,
+    "location": {
+      "city": "Bengaluru",
+      "placeName": "Hosmat Hospital Pharmacy",
+      "category": "Hospital"
+    },
+    "people": [
+      "Pradeep"
+    ],
+    "visualAttributes": {
+      "dominantColors": [
+        "#FFFFFF",
+        "#B31412"
+      ],
+      "paperType": "Printed form"
+    },
+    "ocrText": "Hosmat Pharmacy ... Doctor prescription medicines: Zerodol-SP, Muscle relaxant, Orthopedic belt ... Total Rs 1,420",
+    "description": "Receipt from orthopedic hospital dispensary for back pain prescription items.",
+    "semanticTags": [
+      "prescription",
+      "pain",
+      "bill",
+      "hospital",
+      "july 2024",
+      "hosmat",
+      "printed form",
+      "bengaluru"
+    ],
+    "documentSubType": "Bill",
+    "condition": "Pain"
+  },
+  {
+    "id": "asset_048",
+    "url": "/photos/asset_048.webp",
+    "thumbnailUrl": "/photos/asset_048.webp",
+    "title": "Physiotherapy Centre Session Package Bill",
+    "contentType": "Document",
+    "date": "2024-07-20T11:00:00Z",
+    "approxDateLabel": "July 2024",
+    "year": 2024,
+    "location": {
+      "city": "Bengaluru",
+      "placeName": "ProPhysio Rehab, Koramangala",
+      "category": "Clinic"
+    },
+    "people": [
+      "Pradeep"
+    ],
+    "visualAttributes": {
+      "dominantColors": [
+        "#F8F9FA",
+        "#1A73E8"
+      ],
+      "paperType": "Printed form"
+    },
+    "ocrText": "ProPhysio Clinic ... Ref: Hosmat Dr. Thomas prescription ... 5 sessions IFT + Ultrasound therapy for lower back",
+    "description": "Physiotherapy clinic billing invoice based on doctor's back pain prescription recommendation.",
+    "semanticTags": [
+      "prescription",
+      "pain",
+      "bill",
+      "clinic",
+      "july 2024",
+      "physiotherapy",
+      "printed form",
+      "bengaluru"
+    ],
+    "documentSubType": "Bill",
+    "condition": "Pain"
+  },
+  {
+    "id": "asset_049",
+    "url": "/photos/asset_049.webp",
+    "thumbnailUrl": "/photos/asset_049.webp",
+    "title": "Clove Dental Pharmacy Antibiotic Receipt",
+    "contentType": "Document",
+    "date": "2023-12-14T18:00:00Z",
+    "approxDateLabel": "December 2023",
+    "year": 2023,
+    "location": {
+      "city": "Bengaluru",
+      "placeName": "Clove Dental Dispensary",
+      "category": "Clinic"
+    },
+    "people": [
+      "Pradeep"
+    ],
+    "visualAttributes": {
+      "dominantColors": [
+        "#E8F0FE",
+        "#1967D2"
+      ],
+      "paperType": "White paper"
+    },
+    "ocrText": "Clove Dental ... Rx painkillers Ketorol-DT & Augmentin ... Dispensed directly at clinic ... Rs 340",
+    "description": "Dental clinic pharmacy payment counter voucher for wisdom tooth painkillers.",
+    "semanticTags": [
+      "prescription",
+      "pain",
+      "receipt",
+      "clinic",
+      "december 2023",
+      "dental",
+      "white paper",
+      "bengaluru"
+    ],
+    "documentSubType": "Receipt",
+    "condition": "Pain"
+  },
+  {
+    "id": "asset_050",
+    "url": "/photos/asset_050.webp",
+    "thumbnailUrl": "/photos/asset_050.webp",
+    "title": "MedPlus Ankle Brace & Pain Gel Receipt",
+    "contentType": "Document",
+    "date": "2024-11-05T10:30:00Z",
+    "approxDateLabel": "November 2024",
+    "year": 2024,
+    "location": {
+      "city": "Bengaluru",
+      "placeName": "MedPlus Pharmacy, Koramangala",
+      "category": "Clinic"
+    },
+    "people": [
+      "Pradeep"
+    ],
+    "visualAttributes": {
+      "dominantColors": [
+        "#FFFFFF",
+        "#D93025"
+      ],
+      "paperType": "Printed form"
+    },
+    "ocrText": "MedPlus ... Prescribed ankle support wrap, Volini spray ... Total Rs 580",
+    "description": "Printed cash slip from medical store for ankle support brace and pain spray.",
+    "semanticTags": [
+      "prescription",
+      "pain",
+      "receipt",
+      "clinic",
+      "november 2024",
+      "printed form",
+      "bengaluru"
+    ],
+    "documentSubType": "Receipt",
+    "condition": "Pain"
+  },
+  {
+    "id": "asset_051",
+    "url": "/photos/asset_051.webp",
+    "thumbnailUrl": "/photos/asset_051.webp",
+    "title": "Annual Preventive Health Checkup Report",
+    "contentType": "Document",
+    "date": "2024-02-15T10:00:00Z",
+    "approxDateLabel": "February 2024",
+    "year": 2024,
+    "location": {
+      "city": "Bengaluru",
+      "placeName": "Apollo Health City",
+      "category": "Hospital"
+    },
+    "people": [
+      "Pradeep"
+    ],
+    "visualAttributes": {
+      "dominantColors": [
+        "#FFFFFF",
+        "#1E8E3E"
+      ],
+      "paperType": "Printed form"
+    },
+    "ocrText": "Apollo Executive Health Checkup ... Full lipid panel, HbA1c, ECG normal ... Multivitamin prescription attached ... Invoice: Rs 4,500",
+    "description": "Preventive master health checkup summary invoice with physician supplement prescription.",
+    "semanticTags": [
+      "prescription",
+      "general",
+      "bill",
+      "hospital",
+      "february 2024",
+      "apollo",
+      "printed form",
+      "bengaluru"
+    ],
+    "documentSubType": "Bill",
+    "condition": "General"
+  },
+  {
+    "id": "asset_052",
+    "url": "/photos/asset_052.webp",
+    "thumbnailUrl": "/photos/asset_052.webp",
+    "title": "Dr. Batra Homeopathy Consultation Voucher",
+    "contentType": "Document",
+    "date": "2023-09-08T15:30:00Z",
+    "approxDateLabel": "September 2023",
+    "year": 2023,
+    "location": {
+      "city": "Bengaluru",
+      "placeName": "Dr. Batra Clinic, Indiranagar",
+      "category": "Clinic"
+    },
+    "people": [
+      "Pradeep"
+    ],
+    "visualAttributes": {
+      "dominantColors": [
+        "#F1F3F4",
+        "#7057FF"
+      ],
+      "paperType": "White paper"
+    },
+    "ocrText": "Dr. Batra Positive Health ... Consultation & 1-month prescription medicine pack ... Total Rs 1,800",
+    "description": "Receipt for wellness consultation and herbal medicine prescription kit.",
+    "semanticTags": [
+      "prescription",
+      "general",
+      "receipt",
+      "clinic",
+      "september 2023",
+      "white paper",
+      "bengaluru"
+    ],
+    "documentSubType": "Receipt",
+    "condition": "General"
+  },
+  {
+    "id": "asset_053",
+    "url": "/photos/asset_053.webp",
+    "thumbnailUrl": "/photos/asset_053.webp",
+    "title": "Handwritten Family Doctor Contact & Rx List",
+    "contentType": "Document",
+    "date": "2024-01-05T12:00:00Z",
+    "approxDateLabel": "January 2024",
+    "year": 2024,
+    "location": {
+      "city": "Bengaluru",
+      "placeName": "Home Study",
+      "category": "Home"
+    },
+    "people": [
+      "Pradeep"
+    ],
+    "visualAttributes": {
+      "dominantColors": [
+        "#FFFFFF",
+        "#202124"
+      ],
+      "paperType": "White paper"
+    },
+    "ocrText": "Emergency medical contacts list: Dr. Rao (Apollo Clinic) - Keep old vomiting prescription handy ... Dr. Thomas (Hosmat) ... Nearest pharmacy: MedPlus Koramangala",
+    "description": "Handwritten desk memo listing trusted family doctors and emergency prescription reminders.",
+    "semanticTags": [
+      "prescription",
+      "general",
+      "handwritten note",
+      "home",
+      "january 2024",
+      "white paper",
+      "bengaluru"
+    ],
+    "documentSubType": "Handwritten Note",
+    "condition": "General"
+  },
+  {
+    "id": "asset_054",
+    "url": "/photos/asset_054.webp",
+    "thumbnailUrl": "/photos/asset_054.webp",
+    "title": "Sunset over Palolem Beach - South Goa",
+    "contentType": "Travel",
+    "date": "2024-11-15T18:15:00Z",
+    "approxDateLabel": "November 2024",
+    "year": 2024,
+    "location": {
+      "city": "Goa",
+      "placeName": "Palolem Beach",
+      "category": "Beach"
+    },
+    "people": [
+      "Pradeep",
+      "Sneha"
+    ],
+    "visualAttributes": {
+      "dominantColors": [
+        "#F57C00",
+        "#FFD54F"
+      ]
+    },
+    "ocrText": "Travel photo taken at Palolem Beach, Goa.",
+    "description": "Golden orange sunset reflecting on wet sand and sea waves at Palolem beach in Goa.",
+    "semanticTags": [
+      "travel",
+      "goa",
+      "beach",
+      "sunset",
+      "vacation",
+      "sea",
+      "november 2024"
+    ]
+  },
+  {
+    "id": "asset_055",
+    "url": "/photos/asset_055.webp",
+    "thumbnailUrl": "/photos/asset_055.webp",
+    "title": "Relaxing on Beach Shack Hammock - Anjuna",
+    "contentType": "Travel",
+    "date": "2024-11-16T15:30:00Z",
+    "approxDateLabel": "November 2024",
+    "year": 2024,
+    "location": {
+      "city": "Goa",
+      "placeName": "Curlies Beach Shack, Anjuna",
+      "category": "Beach"
+    },
+    "people": [
+      "Pradeep"
+    ],
+    "visualAttributes": {
+      "dominantColors": [
+        "#0288D1",
+        "#FFF9C4"
+      ]
+    },
+    "ocrText": "Travel photo taken at Curlies Beach Shack, Anjuna, Goa.",
+    "description": "Chilling in a striped cotton hammock under palm trees with ocean breeze at Anjuna beach shack.",
+    "semanticTags": [
+      "travel",
+      "goa",
+      "beach",
+      "hammock",
+      "relaxation",
+      "sea",
+      "november 2024"
+    ]
+  },
+  {
+    "id": "asset_056",
+    "url": "/photos/asset_056.webp",
+    "thumbnailUrl": "/photos/asset_056.webp",
+    "title": "Morning Coffee at French Bakery - Fontainhas",
+    "contentType": "Travel",
+    "date": "2024-11-17T09:45:00Z",
+    "approxDateLabel": "November 2024",
+    "year": 2024,
+    "location": {
+      "city": "Goa",
+      "placeName": "Fontainhas Latin Quarter",
+      "category": "Restaurant"
+    },
+    "people": [
+      "Pradeep",
+      "Sneha"
+    ],
+    "visualAttributes": {
+      "dominantColors": [
+        "#E64A19",
+        "#FFE0B2"
+      ]
+    },
+    "ocrText": "Travel photo taken at Fontainhas Latin Quarter, Goa.",
+    "description": "Artisanal espresso and warm croissant outside bright yellow Portuguese villa in Fontainhas.",
+    "semanticTags": [
+      "travel",
+      "goa",
+      "cafe",
+      "coffee",
+      "restaurant",
+      "fontainhas",
+      "november 2024"
+    ]
+  },
+  {
+    "id": "asset_057",
+    "url": "/photos/asset_057.webp",
+    "thumbnailUrl": "/photos/asset_057.webp",
+    "title": "Renting Scooters along North Goa Coastline",
+    "contentType": "Travel",
+    "date": "2024-11-14T11:00:00Z",
+    "approxDateLabel": "November 2024",
+    "year": 2024,
+    "location": {
+      "city": "Goa",
+      "placeName": "Vagator Coastal Road",
+      "category": "Outdoor"
+    },
+    "people": [
+      "Pradeep",
+      "Karthik"
+    ],
+    "visualAttributes": {
+      "dominantColors": [
+        "#388E3C",
+        "#81C784"
+      ]
+    },
+    "ocrText": "Travel photo taken at Vagator Coastal Road, Goa.",
+    "description": "Two rented yellow Activa scooters parked beside scenic green cliff overlooking the Arabian Sea.",
+    "semanticTags": [
+      "travel",
+      "goa",
+      "scooter",
+      "road trip",
+      "ocean",
+      "outdoor",
+      "november 2024"
+    ]
+  },
+  {
+    "id": "asset_058",
+    "url": "/photos/asset_058.webp",
+    "thumbnailUrl": "/photos/asset_058.webp",
+    "title": "Sunrise at Taj Mahal Front Gardens",
+    "contentType": "Travel",
+    "date": "2023-10-02T06:20:00Z",
+    "approxDateLabel": "October 2023",
+    "year": 2023,
+    "location": {
+      "city": "Agra",
+      "placeName": "Taj Mahal Complex",
+      "category": "Outdoor"
+    },
+    "people": [
+      "Pradeep"
+    ],
+    "visualAttributes": {
+      "dominantColors": [
+        "#FAFAFA",
+        "#B0BEC5"
+      ]
+    },
+    "ocrText": "Travel photo taken at Taj Mahal Complex, Agra.",
+    "description": "Soft pink dawn light reflecting off the white marble dome and minarets of the Taj Mahal.",
+    "semanticTags": [
+      "travel",
+      "agra",
+      "taj mahal",
+      "monument",
+      "sunrise",
+      "marble",
+      "october 2023"
+    ]
+  },
+  {
+    "id": "asset_059",
+    "url": "/photos/asset_059.webp",
+    "thumbnailUrl": "/photos/asset_059.webp",
+    "title": "Snow Trek at Rohtang Pass - Manali",
+    "contentType": "Travel",
+    "date": "2024-01-18T12:40:00Z",
+    "approxDateLabel": "January 2024",
+    "year": 2024,
+    "location": {
+      "city": "Manali",
+      "placeName": "Rohtang Pass",
+      "category": "Outdoor"
+    },
+    "people": [
+      "Pradeep",
+      "Rohan"
+    ],
+    "visualAttributes": {
+      "dominantColors": [
+        "#FFFFFF",
+        "#0288D1"
+      ]
+    },
+    "ocrText": "Travel photo taken at Rohtang Pass, Manali.",
+    "description": "Crisp white snow covered mountain ridge and pine valleys with friends in heavy winter parkas.",
+    "semanticTags": [
+      "travel",
+      "manali",
+      "snow",
+      "mountains",
+      "trek",
+      "winter",
+      "january 2024"
+    ]
+  },
+  {
+    "id": "asset_060",
+    "url": "/photos/asset_060.webp",
+    "thumbnailUrl": "/photos/asset_060.webp",
+    "title": "Old Manali Cozy Wooden Cabin View",
+    "contentType": "Travel",
+    "date": "2024-01-19T17:00:00Z",
+    "approxDateLabel": "January 2024",
+    "year": 2024,
+    "location": {
+      "city": "Manali",
+      "placeName": "Old Manali Village",
+      "category": "Outdoor"
+    },
+    "people": [
+      "Pradeep"
+    ],
+    "visualAttributes": {
+      "dominantColors": [
+        "#5D4037",
+        "#8D6E63"
+      ]
+    },
+    "ocrText": "Travel photo taken at Old Manali Village, Manali.",
+    "description": "Cedar wooden balcony overlooking frosted apple orchards and snowy mountain peaks at dusk.",
+    "semanticTags": [
+      "travel",
+      "manali",
+      "cabin",
+      "mountains",
+      "snow",
+      "winter",
+      "january 2024"
+    ]
+  },
+  {
+    "id": "asset_061",
+    "url": "/photos/asset_061.webp",
+    "thumbnailUrl": "/photos/asset_061.webp",
+    "title": "Pangong Tso Blue Waters - Ladakh",
+    "contentType": "Travel",
+    "date": "2023-06-15T14:00:00Z",
+    "approxDateLabel": "June 2023",
+    "year": 2023,
+    "location": {
+      "city": "Leh Ladakh",
+      "placeName": "Pangong Tso Lake",
+      "category": "Outdoor"
+    },
+    "people": [
+      "Pradeep",
+      "Amit"
+    ],
+    "visualAttributes": {
+      "dominantColors": [
+        "#01579B",
+        "#81D4FA"
+      ]
+    },
+    "ocrText": "Travel photo taken at Pangong Tso Lake, Leh Ladakh.",
+    "description": "Breathtaking turquoise high-altitude lake surrounded by barren brown Himalayan mountain ranges.",
+    "semanticTags": [
+      "travel",
+      "ladakh",
+      "pangong lake",
+      "mountains",
+      "lake",
+      "blue water",
+      "june 2023"
+    ]
+  },
+  {
+    "id": "asset_062",
+    "url": "/photos/asset_062.webp",
+    "thumbnailUrl": "/photos/asset_062.webp",
+    "title": "Monastery Prayer Flags at Thiksey - Ladakh",
+    "contentType": "Travel",
+    "date": "2023-06-17T10:15:00Z",
+    "approxDateLabel": "June 2023",
+    "year": 2023,
+    "location": {
+      "city": "Leh Ladakh",
+      "placeName": "Thiksey Monastery",
+      "category": "Outdoor"
+    },
+    "people": [
+      "Pradeep"
+    ],
+    "visualAttributes": {
+      "dominantColors": [
+        "#D32F2F",
+        "#FBC02D"
+      ]
+    },
+    "ocrText": "Travel photo taken at Thiksey Monastery, Leh Ladakh.",
+    "description": "Colorful Tibetan prayer flags fluttering in mountain breeze against whitewashed monastery walls.",
+    "semanticTags": [
+      "travel",
+      "ladakh",
+      "monastery",
+      "prayer flags",
+      "buddhism",
+      "culture",
+      "june 2023"
+    ]
+  },
+  {
+    "id": "asset_063",
+    "url": "/photos/asset_063.webp",
+    "thumbnailUrl": "/photos/asset_063.webp",
+    "title": "Eiffel Tower Twinkle Lights - Paris",
+    "contentType": "Travel",
+    "date": "2023-09-20T21:30:00Z",
+    "approxDateLabel": "September 2023",
+    "year": 2023,
+    "location": {
+      "city": "Paris",
+      "placeName": "Champ de Mars",
+      "category": "Outdoor"
+    },
+    "people": [
+      "Pradeep",
+      "Sneha"
+    ],
+    "visualAttributes": {
+      "dominantColors": [
+        "#212121",
+        "#FFD54F"
+      ]
+    },
+    "ocrText": "Travel photo taken at Champ de Mars, Paris.",
+    "description": "Sparkling golden illuminations on the Eiffel Tower against a deep navy Parisian night sky.",
+    "semanticTags": [
+      "travel",
+      "paris",
+      "eiffel tower",
+      "night",
+      "monument",
+      "france",
+      "september 2023"
+    ]
+  },
+  {
+    "id": "asset_064",
+    "url": "/photos/asset_064.webp",
+    "thumbnailUrl": "/photos/asset_064.webp",
+    "title": "Caf\u00e9 de Flore Sidewalk Table - Paris",
+    "contentType": "Travel",
+    "date": "2023-09-21T15:00:00Z",
+    "approxDateLabel": "September 2023",
+    "year": 2023,
+    "location": {
+      "city": "Paris",
+      "placeName": "Boulevard Saint-Germain",
+      "category": "Restaurant"
+    },
+    "people": [
+      "Pradeep",
+      "Sneha"
+    ],
+    "visualAttributes": {
+      "dominantColors": [
+        "#3E2723",
+        "#D7CCC8"
+      ]
+    },
+    "ocrText": "Travel photo taken at Boulevard Saint-Germain, Paris.",
+    "description": "Classic round wicker table outside Parisian bistro with caf\u00e9 au lait and macarons.",
+    "semanticTags": [
+      "travel",
+      "paris",
+      "cafe",
+      "coffee",
+      "bistro",
+      "france",
+      "september 2023"
+    ]
+  },
+  {
+    "id": "asset_065",
+    "url": "/photos/asset_065.webp",
+    "thumbnailUrl": "/photos/asset_065.webp",
+    "title": "Colosseum Exterior Archways - Rome",
+    "contentType": "Travel",
+    "date": "2023-09-25T11:30:00Z",
+    "approxDateLabel": "September 2023",
+    "year": 2023,
+    "location": {
+      "city": "Rome",
+      "placeName": "Piazza del Colosseo",
+      "category": "Outdoor"
+    },
+    "people": [
+      "Pradeep"
+    ],
+    "visualAttributes": {
+      "dominantColors": [
+        "#8D6E63",
+        "#FFE082"
+      ]
+    },
+    "ocrText": "Travel photo taken at Piazza del Colosseo, Rome.",
+    "description": "Ancient Roman stone arches and monumental facade of the Flavian Amphitheatre under clear blue sky.",
+    "semanticTags": [
+      "travel",
+      "rome",
+      "colosseum",
+      "history",
+      "monument",
+      "italy",
+      "september 2023"
+    ]
+  },
+  {
+    "id": "asset_066",
+    "url": "/photos/asset_066.webp",
+    "thumbnailUrl": "/photos/asset_066.webp",
+    "title": "Trevi Fountain Coin Toss - Rome",
+    "contentType": "Travel",
+    "date": "2023-09-26T16:45:00Z",
+    "approxDateLabel": "September 2023",
+    "year": 2023,
+    "location": {
+      "city": "Rome",
+      "placeName": "Trevi Fountain",
+      "category": "Outdoor"
+    },
+    "people": [
+      "Pradeep",
+      "Sneha"
+    ],
+    "visualAttributes": {
+      "dominantColors": [
+        "#00838F",
+        "#E0F7FA"
+      ]
+    },
+    "ocrText": "Travel photo taken at Trevi Fountain, Rome.",
+    "description": "Crystal turquoise water splashing against Baroque marble statues at the crowded Trevi Fountain.",
+    "semanticTags": [
+      "travel",
+      "rome",
+      "trevi fountain",
+      "water",
+      "italy",
+      "vacation",
+      "september 2023"
+    ]
+  },
+  {
+    "id": "asset_067",
+    "url": "/photos/asset_067.webp",
+    "thumbnailUrl": "/photos/asset_067.webp",
+    "title": "Swiss Alps Train Journey to Jungfrau",
+    "contentType": "Travel",
+    "date": "2023-09-28T13:20:00Z",
+    "approxDateLabel": "September 2023",
+    "year": 2023,
+    "location": {
+      "city": "Interlaken",
+      "placeName": "Jungfraubahn Train",
+      "category": "Outdoor"
+    },
+    "people": [
+      "Pradeep"
+    ],
+    "visualAttributes": {
+      "dominantColors": [
+        "#1B5E20",
+        "#FFFFFF"
+      ]
+    },
+    "ocrText": "Travel photo taken at Jungfraubahn Train, Interlaken.",
+    "description": "Panoramic red cogwheel train winding through lush green Swiss valleys and snowy jagged peaks.",
+    "semanticTags": [
+      "travel",
+      "switzerland",
+      "alps",
+      "train",
+      "mountains",
+      "scenic",
+      "september 2023"
+    ]
+  },
+  {
+    "id": "asset_068",
+    "url": "/photos/asset_068.webp",
+    "thumbnailUrl": "/photos/asset_068.webp",
+    "title": "Amer Fort Amber Courtyard - Jaipur",
+    "contentType": "Travel",
+    "date": "2024-02-10T14:15:00Z",
+    "approxDateLabel": "February 2024",
+    "year": 2024,
+    "location": {
+      "city": "Jaipur",
+      "placeName": "Amer Palace",
+      "category": "Outdoor"
+    },
+    "people": [
+      "Pradeep",
+      "Karthik"
+    ],
+    "visualAttributes": {
+      "dominantColors": [
+        "#E65100",
+        "#FFE0B2"
+      ]
+    },
+    "ocrText": "Travel photo taken at Amer Palace, Jaipur.",
+    "description": "Intricate sandstone jaali lattice carvings and royal courtyards overlooking Maota Lake.",
+    "semanticTags": [
+      "travel",
+      "jaipur",
+      "amer fort",
+      "palace",
+      "rajasthan",
+      "history",
+      "february 2024"
+    ]
+  },
+  {
+    "id": "asset_069",
+    "url": "/photos/asset_069.webp",
+    "thumbnailUrl": "/photos/asset_069.webp",
+    "title": "Hawa Mahal Pink Sandstone Windows",
+    "contentType": "Travel",
+    "date": "2024-02-11T10:00:00Z",
+    "approxDateLabel": "February 2024",
+    "year": 2024,
+    "location": {
+      "city": "Jaipur",
+      "placeName": "Hawa Mahal",
+      "category": "Outdoor"
+    },
+    "people": [
+      "Pradeep"
+    ],
+    "visualAttributes": {
+      "dominantColors": [
+        "#AD1457",
+        "#F8BBD0"
+      ]
+    },
+    "ocrText": "Travel photo taken at Hawa Mahal, Jaipur.",
+    "description": "Iconic honeycomb beehive facade of Hawa Mahal with miniature arched casements in morning light.",
+    "semanticTags": [
+      "travel",
+      "jaipur",
+      "hawa mahal",
+      "rajasthan",
+      "architecture",
+      "pink city",
+      "february 2024"
+    ]
+  },
+  {
+    "id": "asset_070",
+    "url": "/photos/asset_070.webp",
+    "thumbnailUrl": "/photos/asset_070.webp",
+    "title": "Kerala Backwaters Houseboat Cruise",
+    "contentType": "Travel",
+    "date": "2024-08-25T16:00:00Z",
+    "approxDateLabel": "August 2024",
+    "year": 2024,
+    "location": {
+      "city": "Alleppey",
+      "placeName": "Vembanad Lake",
+      "category": "Outdoor"
+    },
+    "people": [
+      "Pradeep",
+      "Sneha"
+    ],
+    "visualAttributes": {
+      "dominantColors": [
+        "#1B5E20",
+        "#33691E"
+      ]
+    },
+    "ocrText": "Travel photo taken at Vembanad Lake, Alleppey.",
+    "description": "Traditional thatched wooden kettuvallam boat gliding through serene palm-fringed canal backwaters.",
+    "semanticTags": [
+      "travel",
+      "kerala",
+      "houseboat",
+      "alleppey",
+      "backwaters",
+      "nature",
+      "august 2024"
+    ]
+  },
+  {
+    "id": "asset_071",
+    "url": "/photos/asset_071.webp",
+    "thumbnailUrl": "/photos/asset_071.webp",
+    "title": "Tea Plantation Misty Slopes - Munnar",
+    "contentType": "Travel",
+    "date": "2024-08-27T08:30:00Z",
+    "approxDateLabel": "August 2024",
+    "year": 2024,
+    "location": {
+      "city": "Munnar",
+      "placeName": "Kolukkumalai Estate",
+      "category": "Outdoor"
+    },
+    "people": [
+      "Pradeep"
+    ],
+    "visualAttributes": {
+      "dominantColors": [
+        "#2E7D32",
+        "#A5D6A7"
+      ]
+    },
+    "ocrText": "Travel photo taken at Kolukkumalai Estate, Munnar.",
+    "description": "Rolling emerald green velvet hills of tea shrubs shrouded in swirling morning mist.",
+    "semanticTags": [
+      "travel",
+      "kerala",
+      "munnar",
+      "tea garden",
+      "hills",
+      "mist",
+      "august 2024"
+    ]
+  },
+  {
+    "id": "asset_072",
+    "url": "/photos/asset_072.webp",
+    "thumbnailUrl": "/photos/asset_072.webp",
+    "title": "Kempegowda Airport Terminal 2 Garden Hall",
+    "contentType": "Travel",
+    "date": "2024-11-14T06:00:00Z",
+    "approxDateLabel": "November 2024",
+    "year": 2024,
+    "location": {
+      "city": "Bengaluru",
+      "placeName": "BLR Airport T2",
+      "category": "Hospital"
+    },
+    "people": [
+      "Pradeep"
+    ],
+    "visualAttributes": {
+      "dominantColors": [
+        "#5D4037",
+        "#81C784"
+      ]
+    },
+    "ocrText": "Travel photo taken at BLR Airport T2, Bengaluru.",
+    "description": "Bamboo architecture and lush suspended hanging gardens inside the world's most beautiful airport.",
+    "semanticTags": [
+      "travel",
+      "bengaluru",
+      "airport",
+      "blr t2",
+      "architecture",
+      "departure",
+      "november 2024"
+    ]
+  },
+  {
+    "id": "asset_073",
+    "url": "/photos/asset_073.webp",
+    "thumbnailUrl": "/photos/asset_073.webp",
+    "title": "Luggage Packed Ready for Vacation",
+    "contentType": "Travel",
+    "date": "2024-11-13T22:00:00Z",
+    "approxDateLabel": "November 2024",
+    "year": 2024,
+    "location": {
+      "city": "Bengaluru",
+      "placeName": "Home Bedroom",
+      "category": "Home"
+    },
+    "people": [
+      "Pradeep"
+    ],
+    "visualAttributes": {
+      "dominantColors": [
+        "#37474F",
+        "#90A4AE"
+      ]
+    },
+    "ocrText": "Travel photo taken at Home Bedroom, Bengaluru.",
+    "description": "Navy blue hard-shell trolley suitcase open on floor packed with linen beach shirts and sunglasses.",
+    "semanticTags": [
+      "travel",
+      "bengaluru",
+      "luggage",
+      "packing",
+      "vacation prep",
+      "home",
+      "november 2024"
+    ]
+  },
+  {
+    "id": "asset_074",
+    "url": "/photos/asset_074.webp",
+    "thumbnailUrl": "/photos/asset_074.webp",
+    "title": "Rahul's 30th Birthday Cake Cutting",
+    "contentType": "People",
+    "date": "2024-04-12T20:30:00Z",
+    "approxDateLabel": "April 2024",
+    "year": 2024,
+    "location": {
+      "city": "Bengaluru",
+      "placeName": "Toit Brewpub, Indiranagar",
+      "category": "Restaurant"
+    },
+    "people": [
+      "Pradeep",
+      "Rahul",
+      "Karthik"
+    ],
+    "visualAttributes": {
+      "dominantColors": [
+        "#FF6F00",
+        "#FFE082"
+      ]
+    },
+    "ocrText": "Photo of social event at Toit Brewpub, Indiranagar.",
+    "description": "Rahul blowing candles on a dark chocolate hazelnut cake surrounded by cheering close friends.",
+    "semanticTags": [
+      "people",
+      "birthday",
+      "cake",
+      "party",
+      "toit",
+      "friends",
+      "celebration",
+      "april 2024"
+    ]
+  },
+  {
+    "id": "asset_075",
+    "url": "/photos/asset_075.webp",
+    "thumbnailUrl": "/photos/asset_075.webp",
+    "title": "Diwali Family Living Room Gathering",
+    "contentType": "People",
+    "date": "2024-10-31T19:00:00Z",
+    "approxDateLabel": "October 2024",
+    "year": 2024,
+    "location": {
+      "city": "Bengaluru",
+      "placeName": "Home Living Room",
+      "category": "Home"
+    },
+    "people": [
+      "Pradeep",
+      "Sneha",
+      "Mother",
+      "Father"
+    ],
+    "visualAttributes": {
+      "dominantColors": [
+        "#E65100",
+        "#FFF3E0"
+      ]
+    },
+    "ocrText": "Photo of social event at Home Living Room.",
+    "description": "Family gathered in festive silk kurtas surrounded by glowing clay diyas and sweet boxes.",
+    "semanticTags": [
+      "people",
+      "diwali",
+      "family",
+      "festival",
+      "home",
+      "celebration",
+      "tradition",
+      "october 2024"
+    ]
+  },
+  {
+    "id": "asset_076",
+    "url": "/photos/asset_076.webp",
+    "thumbnailUrl": "/photos/asset_076.webp",
+    "title": "Priya & Aditya Wedding Sangeet Dance",
+    "contentType": "People",
+    "date": "2024-12-22T21:00:00Z",
+    "approxDateLabel": "December 2024",
+    "year": 2024,
+    "location": {
+      "city": "Jaipur",
+      "placeName": "Fairmont Palace Lawn",
+      "category": "Outdoor"
+    },
+    "people": [
+      "Pradeep",
+      "Priya",
+      "Aditya",
+      "Sneha"
+    ],
+    "visualAttributes": {
+      "dominantColors": [
+        "#880E4F",
+        "#F48FB1"
+      ]
+    },
+    "ocrText": "Photo of social event at Fairmont Palace Lawn.",
+    "description": "Bride and groom performing choreographed Bollywood dance under grand floral fairy light stage.",
+    "semanticTags": [
+      "people",
+      "wedding",
+      "sangeet",
+      "dance",
+      "jaipur",
+      "celebration",
+      "friends",
+      "december 2024"
+    ]
+  },
+  {
+    "id": "asset_077",
+    "url": "/photos/asset_077.webp",
+    "thumbnailUrl": "/photos/asset_077.webp",
+    "title": "College Reunion Brunch at Koramangala",
+    "contentType": "People",
+    "date": "2024-03-10T12:30:00Z",
+    "approxDateLabel": "March 2024",
+    "year": 2024,
+    "location": {
+      "city": "Bengaluru",
+      "placeName": "The Hole in the Wall Cafe",
+      "category": "Restaurant"
+    },
+    "people": [
+      "Pradeep",
+      "Rahul",
+      "Ankit",
+      "Deepa"
+    ],
+    "visualAttributes": {
+      "dominantColors": [
+        "#00695C",
+        "#80CBC4"
+      ]
+    },
+    "ocrText": "Photo of social event at The Hole in the Wall Cafe.",
+    "description": "Group selfie laughing across wooden cafe table piled with waffles, eggs florentine, and iced tea.",
+    "semanticTags": [
+      "people",
+      "friends",
+      "brunch",
+      "reunion",
+      "cafe",
+      "koramangala",
+      "march 2024"
+    ]
+  },
+  {
+    "id": "asset_078",
+    "url": "/photos/asset_078.webp",
+    "thumbnailUrl": "/photos/asset_078.webp",
+    "title": "Engineering Campus Graduation Day",
+    "contentType": "People",
+    "date": "2023-07-08T11:00:00Z",
+    "approxDateLabel": "July 2023",
+    "year": 2023,
+    "location": {
+      "city": "Bengaluru",
+      "placeName": "University Auditorium",
+      "category": "Outdoor"
+    },
+    "people": [
+      "Pradeep",
+      "Karthik",
+      "Rohan"
+    ],
+    "visualAttributes": {
+      "dominantColors": [
+        "#1A237E",
+        "#C5CAE9"
+      ]
+    },
+    "ocrText": "Photo of social event at University Auditorium.",
+    "description": "Tossing black graduation mortarboard caps into the sky in front of the main college stone arches.",
+    "semanticTags": [
+      "people",
+      "graduation",
+      "college",
+      "friends",
+      "celebration",
+      "degree",
+      "july 2023"
+    ]
+  },
+  {
+    "id": "asset_079",
+    "url": "/photos/asset_079.webp",
+    "thumbnailUrl": "/photos/asset_079.webp",
+    "title": "Office Team Hackathon Demo Day",
+    "contentType": "People",
+    "date": "2024-05-17T17:00:00Z",
+    "approxDateLabel": "May 2024",
+    "year": 2024,
+    "location": {
+      "city": "Bengaluru",
+      "placeName": "Google Office, Bagmane Tech Park",
+      "category": "Hospital"
+    },
+    "people": [
+      "Pradeep",
+      "Neha",
+      "Vikram"
+    ],
+    "visualAttributes": {
+      "dominantColors": [
+        "#0D47A1",
+        "#90CAF9"
+      ]
+    },
+    "ocrText": "Photo of social event at Google Office, Bagmane Tech Park.",
+    "description": "Software engineering team high-fiving after winning first prize trophy at company hackathon.",
+    "semanticTags": [
+      "people",
+      "office",
+      "work",
+      "hackathon",
+      "team",
+      "celebration",
+      "tech",
+      "may 2024"
+    ]
+  },
+  {
+    "id": "asset_080",
+    "url": "/photos/asset_080.webp",
+    "thumbnailUrl": "/photos/asset_080.webp",
+    "title": "Terrace BBQ Night with Friends",
+    "contentType": "People",
+    "date": "2024-02-24T20:00:00Z",
+    "approxDateLabel": "February 2024",
+    "year": 2024,
+    "location": {
+      "city": "Bengaluru",
+      "placeName": "Indiranagar Rooftop",
+      "category": "Home"
+    },
+    "people": [
+      "Pradeep",
+      "Rahul",
+      "Sneha",
+      "Arjun"
+    ],
+    "visualAttributes": {
+      "dominantColors": [
+        "#BF360C",
+        "#FFAB91"
+      ]
+    },
+    "ocrText": "Photo of social event at Indiranagar Rooftop.",
+    "description": "Grilling paneer and chicken skewers over hot coals on breezy Bangalore terrace under string lights.",
+    "semanticTags": [
+      "people",
+      "bbq",
+      "terrace",
+      "friends",
+      "food",
+      "party",
+      "bengaluru",
+      "february 2024"
+    ]
+  },
+  {
+    "id": "asset_081",
+    "url": "/photos/asset_081.webp",
+    "thumbnailUrl": "/photos/asset_081.webp",
+    "title": "New Year's Eve Countdown Celebration",
+    "contentType": "People",
+    "date": "2023-12-31T23:59:00Z",
+    "approxDateLabel": "December 2023",
+    "year": 2023,
+    "location": {
+      "city": "Bengaluru",
+      "placeName": "Skydeck Lounge, UB City",
+      "category": "Restaurant"
+    },
+    "people": [
+      "Pradeep",
+      "Sneha",
+      "Karthik"
+    ],
+    "visualAttributes": {
+      "dominantColors": [
+        "#4A148C",
+        "#E1BEE7"
+      ]
+    },
+    "ocrText": "Photo of social event at Skydeck Lounge, UB City.",
+    "description": "Champagne toast and golden confetti shower celebrating midnight new year arrival.",
+    "semanticTags": [
+      "people",
+      "new year",
+      "party",
+      "celebration",
+      "ub city",
+      "friends",
+      "december 2023"
+    ]
+  },
+  {
+    "id": "asset_082",
+    "url": "/photos/asset_082.webp",
+    "thumbnailUrl": "/photos/asset_082.webp",
+    "title": "Weekend Trekking Group at Nandi Hills",
+    "contentType": "People",
+    "date": "2024-06-09T06:30:00Z",
+    "approxDateLabel": "June 2024",
+    "year": 2024,
+    "location": {
+      "city": "Bengaluru",
+      "placeName": "Nandi Hills Sunrise Point",
+      "category": "Outdoor"
+    },
+    "people": [
+      "Pradeep",
+      "Rohan",
+      "Ankit"
+    ],
+    "visualAttributes": {
+      "dominantColors": [
+        "#E65100",
+        "#FFE082"
+      ]
+    },
+    "ocrText": "Photo of social event at Nandi Hills Sunrise Point.",
+    "description": "Tired but smiling friends posing on cliff edge with sea of morning clouds below.",
+    "semanticTags": [
+      "people",
+      "nandi hills",
+      "trek",
+      "sunrise",
+      "friends",
+      "nature",
+      "outdoor",
+      "june 2024"
+    ]
+  },
+  {
+    "id": "asset_083",
+    "url": "/photos/asset_083.webp",
+    "thumbnailUrl": "/photos/asset_083.webp",
+    "title": "Cousin Baby Shower Ceremony",
+    "contentType": "People",
+    "date": "2024-09-08T11:30:00Z",
+    "approxDateLabel": "September 2024",
+    "year": 2024,
+    "location": {
+      "city": "Bengaluru",
+      "placeName": "Grand Magrath Banquet Hall",
+      "category": "Hospital"
+    },
+    "people": [
+      "Sneha",
+      "Meera",
+      "Aunt"
+    ],
+    "visualAttributes": {
+      "dominantColors": [
+        "#F06292",
+        "#FCE4EC"
+      ]
+    },
+    "ocrText": "Photo of social event at Grand Magrath Banquet Hall.",
+    "description": "Posing with radiant expectant mother seated in floral decorated rocking swing chair.",
+    "semanticTags": [
+      "people",
+      "baby shower",
+      "family",
+      "tradition",
+      "celebration",
+      "bengaluru",
+      "september 2024"
+    ]
+  },
+  {
+    "id": "asset_084",
+    "url": "/photos/asset_084.webp",
+    "thumbnailUrl": "/photos/asset_084.webp",
+    "title": "Mother's 60th Birthday Celebration",
+    "contentType": "People",
+    "date": "2024-08-04T13:00:00Z",
+    "approxDateLabel": "August 2024",
+    "year": 2024,
+    "location": {
+      "city": "Bengaluru",
+      "placeName": "Karavalli Restaurant, Gateway Hotel",
+      "category": "Restaurant"
+    },
+    "people": [
+      "Pradeep",
+      "Mother",
+      "Father",
+      "Sneha"
+    ],
+    "visualAttributes": {
+      "dominantColors": [
+        "#1B5E20",
+        "#C8E6C9"
+      ]
+    },
+    "ocrText": "Photo of social event at Karavalli Restaurant, Gateway Hotel.",
+    "description": "Family portrait smiling with bouquet of yellow lilies and silver number balloons.",
+    "semanticTags": [
+      "people",
+      "mother",
+      "birthday",
+      "family",
+      "lunch",
+      "celebration",
+      "august 2024"
+    ]
+  },
+  {
+    "id": "asset_085",
+    "url": "/photos/asset_085.webp",
+    "thumbnailUrl": "/photos/asset_085.webp",
+    "title": "Badminton Match Victory Selfie",
+    "contentType": "People",
+    "date": "2024-07-28T19:30:00Z",
+    "approxDateLabel": "July 2024",
+    "year": 2024,
+    "location": {
+      "city": "Bengaluru",
+      "placeName": "PlaySeppo Sports Arena",
+      "category": "Clinic"
+    },
+    "people": [
+      "Pradeep",
+      "Rahul"
+    ],
+    "visualAttributes": {
+      "dominantColors": [
+        "#004D40",
+        "#80CBC4"
+      ]
+    },
+    "ocrText": "Photo of social event at PlaySeppo Sports Arena.",
+    "description": "Sweaty post-match selfie on indoor synthetic wooden court holding Yonex racquets.",
+    "semanticTags": [
+      "people",
+      "sports",
+      "badminton",
+      "fitness",
+      "friends",
+      "bengaluru",
+      "july 2024"
+    ]
+  },
+  {
+    "id": "asset_086",
+    "url": "/photos/asset_086.webp",
+    "thumbnailUrl": "/photos/asset_086.webp",
+    "title": "Game Night Board Game Table",
+    "contentType": "People",
+    "date": "2024-01-27T21:30:00Z",
+    "approxDateLabel": "January 2024",
+    "year": 2024,
+    "location": {
+      "city": "Bengaluru",
+      "placeName": "Home Living Room",
+      "category": "Home"
+    },
+    "people": [
+      "Pradeep",
+      "Sneha",
+      "Karthik",
+      "Pooja"
+    ],
+    "visualAttributes": {
+      "dominantColors": [
+        "#3E2723",
+        "#D7CCC8"
+      ]
+    },
+    "ocrText": "Photo of social event at Home Living Room.",
+    "description": "Hands reaching for Catan settlements and resource cards with popcorn bowl in center.",
+    "semanticTags": [
+      "people",
+      "game night",
+      "board game",
+      "catan",
+      "friends",
+      "home",
+      "january 2024"
+    ]
+  },
+  {
+    "id": "asset_087",
+    "url": "/photos/asset_087.webp",
+    "thumbnailUrl": "/photos/asset_087.webp",
+    "title": "Diwali Diya Lighting on Balcony",
+    "contentType": "People",
+    "date": "2024-10-31T20:15:00Z",
+    "approxDateLabel": "October 2024",
+    "year": 2024,
+    "location": {
+      "city": "Bengaluru",
+      "placeName": "Home Balcony",
+      "category": "Home"
+    },
+    "people": [
+      "Pradeep",
+      "Sneha"
+    ],
+    "visualAttributes": {
+      "dominantColors": [
+        "#E65100",
+        "#FFD54F"
+      ]
+    },
+    "ocrText": "Photo of social event at Home Balcony.",
+    "description": "Carefully placing lit brass oil lamps along apartment balcony railing overlooking city lights.",
+    "semanticTags": [
+      "people",
+      "diwali",
+      "diyas",
+      "lights",
+      "festival",
+      "home",
+      "october 2024"
+    ]
+  },
+  {
+    "id": "asset_088",
+    "url": "/photos/asset_088.webp",
+    "thumbnailUrl": "/photos/asset_088.webp",
+    "title": "Sunday Cycling Club at Cubbon Park",
+    "contentType": "People",
+    "date": "2024-03-24T07:00:00Z",
+    "approxDateLabel": "March 2024",
+    "year": 2024,
+    "location": {
+      "city": "Bengaluru",
+      "placeName": "Cubbon Park Bamboo Grove",
+      "category": "Outdoor"
+    },
+    "people": [
+      "Pradeep",
+      "Anand",
+      "Vikram"
+    ],
+    "visualAttributes": {
+      "dominantColors": [
+        "#2E7D32",
+        "#A5D6A7"
+      ]
+    },
+    "ocrText": "Photo of social event at Cubbon Park Bamboo Grove.",
+    "description": "Group of road cyclists in helmets and jerseys resting near historic red library building.",
+    "semanticTags": [
+      "people",
+      "cycling",
+      "cubbon park",
+      "fitness",
+      "morning",
+      "outdoor",
+      "march 2024"
+    ]
+  },
+  {
+    "id": "asset_089",
+    "url": "/photos/asset_089.webp",
+    "thumbnailUrl": "/photos/asset_089.webp",
+    "title": "Office Farewell Lunch for Team Lead",
+    "contentType": "People",
+    "date": "2023-11-24T13:30:00Z",
+    "approxDateLabel": "November 2023",
+    "year": 2023,
+    "location": {
+      "city": "Bengaluru",
+      "placeName": "Punjab Grill, Orion Mall",
+      "category": "Restaurant"
+    },
+    "people": [
+      "Pradeep",
+      "Vikram",
+      "Team"
+    ],
+    "visualAttributes": {
+      "dominantColors": [
+        "#B71C1C",
+        "#FFCDD2"
+      ]
+    },
+    "ocrText": "Photo of social event at Punjab Grill, Orion Mall.",
+    "description": "Team holding farewell memory card and personalized caricature gift mug for departing manager.",
+    "semanticTags": [
+      "people",
+      "office",
+      "farewell",
+      "team",
+      "lunch",
+      "bengaluru",
+      "november 2023"
+    ]
+  },
+  {
+    "id": "asset_090",
+    "url": "/photos/asset_090.webp",
+    "thumbnailUrl": "/photos/asset_090.webp",
+    "title": "Music Concert Crowd Singing Along",
+    "contentType": "People",
+    "date": "2024-03-02T21:45:00Z",
+    "approxDateLabel": "March 2024",
+    "year": 2024,
+    "location": {
+      "city": "Bengaluru",
+      "placeName": "Manpho Convention Grounds",
+      "category": "Outdoor"
+    },
+    "people": [
+      "Pradeep",
+      "Sneha",
+      "Rahul"
+    ],
+    "visualAttributes": {
+      "dominantColors": [
+        "#311B92",
+        "#B388FF"
+      ]
+    },
+    "ocrText": "Photo of social event at Manpho Convention Grounds.",
+    "description": "Sea of cheering concert attendees waving phone flashlights under giant purple LED stage.",
+    "semanticTags": [
+      "people",
+      "concert",
+      "music",
+      "crowd",
+      "night",
+      "festival",
+      "march 2024"
+    ]
+  },
+  {
+    "id": "asset_091",
+    "url": "/photos/asset_091.webp",
+    "thumbnailUrl": "/photos/asset_091.webp",
+    "title": "Friend's Housewarming Pooja Ceremony",
+    "contentType": "People",
+    "date": "2024-06-16T10:30:00Z",
+    "approxDateLabel": "June 2024",
+    "year": 2024,
+    "location": {
+      "city": "Bengaluru",
+      "placeName": "Prestige Falcon City Flat",
+      "category": "Home"
+    },
+    "people": [
+      "Pradeep",
+      "Karthik",
+      "Divya"
+    ],
+    "visualAttributes": {
+      "dominantColors": [
+        "#FF6F00",
+        "#FFE082"
+      ]
+    },
+    "ocrText": "Photo of social event at Prestige Falcon City Flat.",
+    "description": "Attending traditional gruhapravesam rituals with mango leaf toran entrance decoration.",
+    "semanticTags": [
+      "people",
+      "housewarming",
+      "pooja",
+      "tradition",
+      "friends",
+      "home",
+      "june 2024"
+    ]
+  },
+  {
+    "id": "asset_092",
+    "url": "/photos/asset_092.webp",
+    "thumbnailUrl": "/photos/asset_092.webp",
+    "title": "Sunset Rooftop Acoustic Jam Session",
+    "contentType": "People",
+    "date": "2024-09-28T18:00:00Z",
+    "approxDateLabel": "September 2024",
+    "year": 2024,
+    "location": {
+      "city": "Bengaluru",
+      "placeName": "Indiranagar Terrace",
+      "category": "Home"
+    },
+    "people": [
+      "Pradeep",
+      "Arjun"
+    ],
+    "visualAttributes": {
+      "dominantColors": [
+        "#BF360C",
+        "#FFCCBC"
+      ]
+    },
+    "ocrText": "Photo of social event at Indiranagar Terrace.",
+    "description": "Friend playing acoustic guitar on terrace beanbags during purple evening twilight.",
+    "semanticTags": [
+      "people",
+      "music",
+      "guitar",
+      "rooftop",
+      "sunset",
+      "friends",
+      "september 2024"
+    ]
+  },
+  {
+    "id": "asset_093",
+    "url": "/photos/asset_093.webp",
+    "thumbnailUrl": "/photos/asset_093.webp",
+    "title": "Pottery Workshop First Clay Bowl",
+    "contentType": "People",
+    "date": "2024-05-04T15:30:00Z",
+    "approxDateLabel": "May 2024",
+    "year": 2024,
+    "location": {
+      "city": "Bengaluru",
+      "placeName": "Clay Station, HSR Layout",
+      "category": "Clinic"
+    },
+    "people": [
+      "Pradeep",
+      "Sneha"
+    ],
+    "visualAttributes": {
+      "dominantColors": [
+        "#795548",
+        "#D7CCC8"
+      ]
+    },
+    "ocrText": "Photo of social event at Clay Station, HSR Layout.",
+    "description": "Laughing with hands caked in wet grey terracotta clay shaping first bowl on pottery wheel.",
+    "semanticTags": [
+      "people",
+      "pottery",
+      "art",
+      "workshop",
+      "clay",
+      "hobby",
+      "may 2024"
+    ]
+  },
+  {
+    "id": "asset_094",
+    "url": "/photos/asset_094.webp",
+    "thumbnailUrl": "/photos/asset_094.webp",
+    "title": "Crispy Masala Dosa Breakfast - Vidyarthi Bhavan",
+    "contentType": "Food",
+    "date": "2024-03-17T08:30:00Z",
+    "approxDateLabel": "March 2024",
+    "year": 2024,
+    "location": {
+      "city": "Bengaluru",
+      "placeName": "Vidyarthi Bhavan, Gandhi Bazaar",
+      "category": "Restaurant"
+    },
+    "people": [
+      "Pradeep"
+    ],
+    "visualAttributes": {
+      "dominantColors": [
+        "#E65100",
+        "#FFE082"
+      ]
+    },
+    "ocrText": "Food photo taken at Vidyarthi Bhavan, Gandhi Bazaar.",
+    "description": "Iconic thick golden-brown ghee roast masala dosa served with fresh coconut chutney bowl.",
+    "semanticTags": [
+      "food",
+      "dosa",
+      "breakfast",
+      "vidyarthi bhavan",
+      "south indian",
+      "coffee",
+      "march 2024"
+    ]
+  },
+  {
+    "id": "asset_095",
+    "url": "/photos/asset_095.webp",
+    "thumbnailUrl": "/photos/asset_095.webp",
+    "title": "Artisanal Flat White Coffee & Latte Art",
+    "contentType": "Food",
+    "date": "2024-05-12T10:00:00Z",
+    "approxDateLabel": "May 2024",
+    "year": 2024,
+    "location": {
+      "city": "Bengaluru",
+      "placeName": "Blue Tokai Coffee, Koramangala",
+      "category": "Restaurant"
+    },
+    "people": [
+      "Pradeep"
+    ],
+    "visualAttributes": {
+      "dominantColors": [
+        "#4E342E",
+        "#D7CCC8"
+      ]
+    },
+    "ocrText": "Food photo taken at Blue Tokai Coffee, Koramangala.",
+    "description": "Creamy textured microfoam tulip latte art in turquoise ceramic cup on wooden tray.",
+    "semanticTags": [
+      "food",
+      "coffee",
+      "latte",
+      "cafe",
+      "blue tokai",
+      "koramangala",
+      "may 2024"
+    ]
+  },
+  {
+    "id": "asset_096",
+    "url": "/photos/asset_096.webp",
+    "thumbnailUrl": "/photos/asset_096.webp",
+    "title": "Sourdough Toast with Poached Egg & Avocado",
+    "contentType": "Food",
+    "date": "2024-06-23T10:30:00Z",
+    "approxDateLabel": "June 2024",
+    "year": 2024,
+    "location": {
+      "city": "Bengaluru",
+      "placeName": "Third Wave Coffee, Indiranagar",
+      "category": "Restaurant"
+    },
+    "people": [
+      "Pradeep",
+      "Sneha"
+    ],
+    "visualAttributes": {
+      "dominantColors": [
+        "#33691E",
+        "#DCEDC8"
+      ]
+    },
+    "ocrText": "Food photo taken at Third Wave Coffee, Indiranagar.",
+    "description": "Thick slice of toasted artisan sourdough topped with mashed avocado, chili flakes, and poached egg.",
+    "semanticTags": [
+      "food",
+      "avocado toast",
+      "breakfast",
+      "brunch",
+      "cafe",
+      "healthy",
+      "june 2024"
+    ]
+  },
+  {
+    "id": "asset_097",
+    "url": "/photos/asset_097.webp",
+    "thumbnailUrl": "/photos/asset_097.webp",
+    "title": "Handmade Truffle Tagliatelle Pasta",
+    "contentType": "Food",
+    "date": "2024-08-14T20:45:00Z",
+    "approxDateLabel": "August 2024",
+    "year": 2024,
+    "location": {
+      "city": "Bengaluru",
+      "placeName": "Chianti Ristorante, Koramangala",
+      "category": "Restaurant"
+    },
+    "people": [
+      "Pradeep",
+      "Sneha"
+    ],
+    "visualAttributes": {
+      "dominantColors": [
+        "#F57F17",
+        "#FFF9C4"
+      ]
+    },
+    "ocrText": "Food photo taken at Chianti Ristorante, Koramangala.",
+    "description": "Fresh ribbon egg pasta tossed in creamy black truffle emulsion with shaved aged parmesan cheese.",
+    "semanticTags": [
+      "food",
+      "pasta",
+      "italian",
+      "dinner",
+      "truffle",
+      "restaurant",
+      "august 2024"
+    ]
+  },
+  {
+    "id": "asset_098",
+    "url": "/photos/asset_098.webp",
+    "thumbnailUrl": "/photos/asset_098.webp",
+    "title": "Old Delhi Butter Chicken & Garlic Naan",
+    "contentType": "Food",
+    "date": "2023-10-04T13:30:00Z",
+    "approxDateLabel": "October 2023",
+    "year": 2023,
+    "location": {
+      "city": "Delhi",
+      "placeName": "Moti Mahal, Daryaganj",
+      "category": "Restaurant"
+    },
+    "people": [
+      "Pradeep",
+      "Father"
+    ],
+    "visualAttributes": {
+      "dominantColors": [
+        "#B71C1C",
+        "#FFCDD2"
+      ]
+    },
+    "ocrText": "Food photo taken at Moti Mahal, Daryaganj.",
+    "description": "Rich velvety tomato gravy chicken curry garnished with fresh cream and piping hot blistered tandoori naan.",
+    "semanticTags": [
+      "food",
+      "butter chicken",
+      "delhi",
+      "naan",
+      "curry",
+      "lunch",
+      "october 2023"
+    ]
+  },
+  {
+    "id": "asset_099",
+    "url": "/photos/asset_099.webp",
+    "thumbnailUrl": "/photos/asset_099.webp",
+    "title": "Woodfired Margherita Pizza with Fresh Basil",
+    "contentType": "Food",
+    "date": "2024-04-20T19:30:00Z",
+    "approxDateLabel": "April 2024",
+    "year": 2024,
+    "location": {
+      "city": "Bengaluru",
+      "placeName": "Brik Oven, Church Street",
+      "category": "Restaurant"
+    },
+    "people": [
+      "Pradeep",
+      "Rahul"
+    ],
+    "visualAttributes": {
+      "dominantColors": [
+        "#D84315",
+        "#FFCCBC"
+      ]
+    },
+    "ocrText": "Food photo taken at Brik Oven, Church Street.",
+    "description": "Authentic Neapolitan blistered leopard crust pizza with San Marzano tomatoes and melted buffalo mozzarella.",
+    "semanticTags": [
+      "food",
+      "pizza",
+      "margherita",
+      "italian",
+      "dinner",
+      "church street",
+      "april 2024"
+    ]
+  },
+  {
+    "id": "asset_100",
+    "url": "/photos/asset_100.webp",
+    "thumbnailUrl": "/photos/asset_100.webp",
+    "title": "Steaming Tonkotsu Ramen with Chashu Pork",
+    "contentType": "Food",
+    "date": "2024-09-15T13:45:00Z",
+    "approxDateLabel": "September 2024",
+    "year": 2024,
+    "location": {
+      "city": "Bengaluru",
+      "placeName": "Harima Japanese Restaurant, Residency Road",
+      "category": "Restaurant"
+    },
+    "people": [
+      "Pradeep"
+    ],
+    "visualAttributes": {
+      "dominantColors": [
+        "#BF360C",
+        "#FFE0B2"
+      ]
+    },
+    "ocrText": "Food photo taken at Harima Japanese Restaurant, Residency Road.",
+    "description": "Rich 12-hour pork bone broth noodles with seasoned soft-boiled ramen egg, bamboo shoots, and nori sheet.",
+    "semanticTags": [
+      "food",
+      "ramen",
+      "japanese",
+      "noodles",
+      "soup",
+      "lunch",
+      "september 2024"
+    ]
+  },
+  {
+    "id": "asset_101",
+    "url": "/photos/asset_101.webp",
+    "thumbnailUrl": "/photos/asset_101.webp",
+    "title": "Mango Bingsu Shaved Milk Ice Dessert",
+    "contentType": "Food",
+    "date": "2024-05-25T16:30:00Z",
+    "approxDateLabel": "May 2024",
+    "year": 2024,
+    "location": {
+      "city": "Bengaluru",
+      "placeName": "Snowy Village, Brigade Road",
+      "category": "Restaurant"
+    },
+    "people": [
+      "Pradeep",
+      "Sneha"
+    ],
+    "visualAttributes": {
+      "dominantColors": [
+        "#F57F17",
+        "#FFF59D"
+      ]
+    },
+    "ocrText": "Food photo taken at Snowy Village, Brigade Road.",
+    "description": "Tower of fluffy Korean shaved milk ice drenched in sweet Alphonso mango cubes and condensed milk.",
+    "semanticTags": [
+      "food",
+      "dessert",
+      "mango",
+      "ice cream",
+      "korean",
+      "sweet",
+      "may 2024"
+    ]
+  },
+  {
+    "id": "asset_102",
+    "url": "/photos/asset_102.webp",
+    "thumbnailUrl": "/photos/asset_102.webp",
+    "title": "Fresh Filter Coffee in Brass Davarah Tumbler",
+    "contentType": "Food",
+    "date": "2024-01-10T07:15:00Z",
+    "approxDateLabel": "January 2024",
+    "year": 2024,
+    "location": {
+      "city": "Bengaluru",
+      "placeName": "Brahmin's Coffee Bar, Shankarpuram",
+      "category": "Restaurant"
+    },
+    "people": [
+      "Pradeep"
+    ],
+    "visualAttributes": {
+      "dominantColors": [
+        "#4E342E",
+        "#FFE082"
+      ]
+    },
+    "ocrText": "Food photo taken at Brahmin's Coffee Bar, Shankarpuram.",
+    "description": "Frothy South Indian chicory filter coffee served in gleaming traditional South Indian brass cup.",
+    "semanticTags": [
+      "food",
+      "coffee",
+      "filter coffee",
+      "brahmins",
+      "breakfast",
+      "traditional",
+      "january 2024"
+    ]
+  },
+  {
+    "id": "asset_103",
+    "url": "/photos/asset_103.webp",
+    "thumbnailUrl": "/photos/asset_103.webp",
+    "title": "Street Food Pani Puri at VV Puram Food Street",
+    "contentType": "Food",
+    "date": "2024-07-06T18:30:00Z",
+    "approxDateLabel": "July 2024",
+    "year": 2024,
+    "location": {
+      "city": "Bengaluru",
+      "placeName": "VV Puram Food Street",
+      "category": "Outdoor"
+    },
+    "people": [
+      "Pradeep",
+      "Karthik"
+    ],
+    "visualAttributes": {
+      "dominantColors": [
+        "#1B5E20",
+        "#DCEDC8"
+      ]
+    },
+    "ocrText": "Food photo taken at VV Puram Food Street.",
+    "description": "Crispy semolina puris filled with spicy mint water, mashed potatoes, and sweet tamarind date chutney.",
+    "semanticTags": [
+      "food",
+      "chaat",
+      "pani puri",
+      "street food",
+      "snack",
+      "vv puram",
+      "july 2024"
+    ]
+  },
+  {
+    "id": "asset_104",
+    "url": "/photos/asset_104.webp",
+    "thumbnailUrl": "/photos/asset_104.webp",
+    "title": "Sunday Seafood Thali Feast",
+    "contentType": "Food",
+    "date": "2024-11-18T13:30:00Z",
+    "approxDateLabel": "November 2024",
+    "year": 2024,
+    "location": {
+      "city": "Goa",
+      "placeName": "Fisherman's Wharf, Cavelossim",
+      "category": "Restaurant"
+    },
+    "people": [
+      "Pradeep",
+      "Sneha"
+    ],
+    "visualAttributes": {
+      "dominantColors": [
+        "#BF360C",
+        "#FFAB91"
+      ]
+    },
+    "ocrText": "Food photo taken at Fisherman's Wharf, Cavelossim.",
+    "description": "Stainless steel round platter loaded with rava fried surmai kingfish, prawn curry, clams, and sol kadhi.",
+    "semanticTags": [
+      "food",
+      "goa",
+      "seafood",
+      "fish thali",
+      "curry",
+      "lunch",
+      "november 2024"
+    ]
+  },
+  {
+    "id": "asset_105",
+    "url": "/photos/asset_105.webp",
+    "thumbnailUrl": "/photos/asset_105.webp",
+    "title": "Fresh Blueberry Cheesecake Slice",
+    "contentType": "Food",
+    "date": "2024-02-14T17:00:00Z",
+    "approxDateLabel": "February 2024",
+    "year": 2024,
+    "location": {
+      "city": "Bengaluru",
+      "placeName": "Glen's Bakehouse, Lavelle Road",
+      "category": "Restaurant"
+    },
+    "people": [
+      "Pradeep",
+      "Sneha"
+    ],
+    "visualAttributes": {
+      "dominantColors": [
+        "#4A148C",
+        "#E1BEE7"
+      ]
+    },
+    "ocrText": "Food photo taken at Glen's Bakehouse, Lavelle Road.",
+    "description": "Decadent baked New York cheesecake topped with glossed sweet blueberry compote.",
+    "semanticTags": [
+      "food",
+      "cheesecake",
+      "dessert",
+      "cake",
+      "bakery",
+      "sweet",
+      "february 2024"
+    ]
+  },
+  {
+    "id": "asset_106",
+    "url": "/photos/asset_106.webp",
+    "thumbnailUrl": "/photos/asset_106.webp",
+    "title": "Dim Sum Steamer Basket - Prawn Har Gow",
+    "contentType": "Food",
+    "date": "2024-10-18T20:00:00Z",
+    "approxDateLabel": "October 2024",
+    "year": 2024,
+    "location": {
+      "city": "Bengaluru",
+      "placeName": "Yauatcha, 1 MG Mall",
+      "category": "Restaurant"
+    },
+    "people": [
+      "Pradeep",
+      "Karthik"
+    ],
+    "visualAttributes": {
+      "dominantColors": [
+        "#E0E0E0",
+        "#FAFAFA"
+      ]
+    },
+    "ocrText": "Food photo taken at Yauatcha, 1 MG Mall.",
+    "description": "Translucent pleated bamboo steamer dumplings with fresh wild prawns and chili oil dip.",
+    "semanticTags": [
+      "food",
+      "dim sum",
+      "chinese",
+      "dumplings",
+      "dinner",
+      "yauatcha",
+      "october 2024"
+    ]
+  },
+  {
+    "id": "asset_107",
+    "url": "/photos/asset_107.webp",
+    "thumbnailUrl": "/photos/asset_107.webp",
+    "title": "Home Cooked Dal Tadka & Jeera Rice",
+    "contentType": "Food",
+    "date": "2024-08-10T13:15:00Z",
+    "approxDateLabel": "August 2024",
+    "year": 2024,
+    "location": {
+      "city": "Bengaluru",
+      "placeName": "Home Dining Table",
+      "category": "Home"
+    },
+    "people": [
+      "Pradeep"
+    ],
+    "visualAttributes": {
+      "dominantColors": [
+        "#F57F17",
+        "#FFF9C4"
+      ]
+    },
+    "ocrText": "Food photo taken at Home Dining Table.",
+    "description": "Yellow arhar dal tempered with ghee, garlic, and cumin seeds served with fragrant basmati jeera rice.",
+    "semanticTags": [
+      "food",
+      "home food",
+      "dal tadka",
+      "comfort food",
+      "lunch",
+      "home",
+      "august 2024"
+    ]
+  },
+  {
+    "id": "asset_108",
+    "url": "/photos/asset_108.webp",
+    "thumbnailUrl": "/photos/asset_108.webp",
+    "title": "Mexican Burrito Bowl with Guacamole",
+    "contentType": "Food",
+    "date": "2024-06-02T13:00:00Z",
+    "approxDateLabel": "June 2024",
+    "year": 2024,
+    "location": {
+      "city": "Bengaluru",
+      "placeName": "Chinita Real Mexican Food, Indiranagar",
+      "category": "Restaurant"
+    },
+    "people": [
+      "Pradeep"
+    ],
+    "visualAttributes": {
+      "dominantColors": [
+        "#1B5E20",
+        "#DCEDC8"
+      ]
+    },
+    "ocrText": "Food photo taken at Chinita Real Mexican Food, Indiranagar.",
+    "description": "Vibrant cilantro rice bowl topped with black beans, roasted corn salsa, pico de gallo, and fresh guacamole.",
+    "semanticTags": [
+      "food",
+      "mexican",
+      "burrito bowl",
+      "healthy",
+      "lunch",
+      "indiranagar",
+      "june 2024"
+    ]
+  },
+  {
+    "id": "asset_109",
+    "url": "/photos/asset_109.webp",
+    "thumbnailUrl": "/photos/asset_109.webp",
+    "title": "Nike Pegasus 40 Running Shoes Checkout",
+    "contentType": "Screenshot",
+    "date": "2024-07-12T14:20:00Z",
+    "approxDateLabel": "July 2024",
+    "year": 2024,
+    "location": {
+      "city": "Bengaluru",
+      "placeName": "Nike App",
+      "category": "Home"
+    },
+    "people": [
+      "Pradeep"
+    ],
+    "visualAttributes": {
+      "dominantColors": [
+        "#212121",
+        "#FAFAFA"
+      ]
+    },
+    "ocrText": "Screenshot of digital screen at Nike App.",
+    "description": "Screenshot of Nike shopping cart showing white & blue Pegasus 40 running shoes size UK 9 with discount code.",
+    "semanticTags": [
+      "screenshot",
+      "shoes",
+      "nike",
+      "shopping",
+      "sneakers",
+      "order",
+      "july 2024"
+    ]
+  },
+  {
+    "id": "asset_110",
+    "url": "/photos/asset_110.webp",
+    "thumbnailUrl": "/photos/asset_110.webp",
+    "title": "IndiGo Flight Ticket BLR to GOI Boarding Pass",
+    "contentType": "Screenshot",
+    "date": "2024-11-13T16:45:00Z",
+    "approxDateLabel": "November 2024",
+    "year": 2024,
+    "location": {
+      "city": "Bengaluru",
+      "placeName": "IndiGo Mobile App",
+      "category": "Home"
+    },
+    "people": [
+      "Pradeep"
+    ],
+    "visualAttributes": {
+      "dominantColors": [
+        "#0D47A1",
+        "#BBDEFB"
+      ]
+    },
+    "ocrText": "Screenshot of digital screen at IndiGo Mobile App.",
+    "description": "Digital boarding pass barcode screenshot for flight 6E-512 Bangalore to Goa departing 07:15 AM seat 12F.",
+    "semanticTags": [
+      "screenshot",
+      "flight",
+      "ticket",
+      "indigo",
+      "boarding pass",
+      "travel",
+      "november 2024"
+    ]
+  },
+  {
+    "id": "asset_111",
+    "url": "/photos/asset_111.webp",
+    "thumbnailUrl": "/photos/asset_111.webp",
+    "title": "Passport Renewal Online Application Receipt",
+    "contentType": "Screenshot",
+    "date": "2024-02-08T11:10:00Z",
+    "approxDateLabel": "February 2024",
+    "year": 2024,
+    "location": {
+      "city": "Bengaluru",
+      "placeName": "Passport Seva Portal",
+      "category": "Home"
+    },
+    "people": [
+      "Pradeep"
+    ],
+    "visualAttributes": {
+      "dominantColors": [
+        "#37474F",
+        "#ECEFF1"
+      ]
+    },
+    "ocrText": "Screenshot of digital screen at Passport Seva Portal.",
+    "description": "Official Government of India Passport Seva appointment confirmation slip screenshot with ARN number.",
+    "semanticTags": [
+      "screenshot",
+      "passport",
+      "document",
+      "government",
+      "appointment",
+      "february 2024"
+    ]
+  },
+  {
+    "id": "asset_112",
+    "url": "/photos/asset_112.webp",
+    "thumbnailUrl": "/photos/asset_112.webp",
+    "title": "WhatsApp Chat Directions to Wedding Venue",
+    "contentType": "Screenshot",
+    "date": "2024-12-20T18:30:00Z",
+    "approxDateLabel": "December 2024",
+    "year": 2024,
+    "location": {
+      "city": "Bengaluru",
+      "placeName": "WhatsApp Messenger",
+      "category": "Home"
+    },
+    "people": [
+      "Pradeep",
+      "Aditya"
+    ],
+    "visualAttributes": {
+      "dominantColors": [
+        "#00796B",
+        "#E0F2F1"
+      ]
+    },
+    "ocrText": "Screenshot of digital screen at WhatsApp Messenger.",
+    "description": "Screenshot of chat message with GPS coordinates and gate security code for Fairmont Jaipur wedding entrance.",
+    "semanticTags": [
+      "screenshot",
+      "chat",
+      "whatsapp",
+      "directions",
+      "wedding",
+      "december 2024"
+    ]
+  },
+  {
+    "id": "asset_113",
+    "url": "/photos/asset_113.webp",
+    "thumbnailUrl": "/photos/asset_113.webp",
+    "title": "Amazon Order Details - Noise Cancelling Headphones",
+    "contentType": "Screenshot",
+    "date": "2024-05-02T19:15:00Z",
+    "approxDateLabel": "May 2024",
+    "year": 2024,
+    "location": {
+      "city": "Bengaluru",
+      "placeName": "Amazon App",
+      "category": "Home"
+    },
+    "people": [
+      "Pradeep"
+    ],
+    "visualAttributes": {
+      "dominantColors": [
+        "#FF9900",
+        "#232F3E"
+      ]
+    },
+    "ocrText": "Screenshot of digital screen at Amazon App.",
+    "description": "Amazon order confirmation screen showing Sony WH-1000XM5 headphones in Silver arriving Friday.",
+    "semanticTags": [
+      "screenshot",
+      "amazon",
+      "shopping",
+      "headphones",
+      "order",
+      "may 2024"
+    ]
+  },
+  {
+    "id": "asset_114",
+    "url": "/photos/asset_114.webp",
+    "thumbnailUrl": "/photos/asset_114.webp",
+    "title": "BookMyShow Concert QR Code Tickets",
+    "contentType": "Screenshot",
+    "date": "2024-03-01T20:00:00Z",
+    "approxDateLabel": "March 2024",
+    "year": 2024,
+    "location": {
+      "city": "Bengaluru",
+      "placeName": "BookMyShow App",
+      "category": "Home"
+    },
+    "people": [
+      "Pradeep"
+    ],
+    "visualAttributes": {
+      "dominantColors": [
+        "#C62828",
+        "#FFCDD2"
+      ]
+    },
+    "ocrText": "Screenshot of digital screen at BookMyShow App.",
+    "description": "Mobile ticketing screen showing 2 VIP lounge admission QR codes for live music fest.",
+    "semanticTags": [
+      "screenshot",
+      "tickets",
+      "concert",
+      "qr code",
+      "bookmyshow",
+      "music",
+      "march 2024"
+    ]
+  },
+  {
+    "id": "asset_115",
+    "url": "/photos/asset_115.webp",
+    "thumbnailUrl": "/photos/asset_115.webp",
+    "title": "Flat Rental Agreement Stamp Paper Excerpt",
+    "contentType": "Screenshot",
+    "date": "2024-06-01T15:00:00Z",
+    "approxDateLabel": "June 2024",
+    "year": 2024,
+    "location": {
+      "city": "Bengaluru",
+      "placeName": "Email PDF Viewer",
+      "category": "Home"
+    },
+    "people": [
+      "Pradeep"
+    ],
+    "visualAttributes": {
+      "dominantColors": [
+        "#4E342E",
+        "#D7CCC8"
+      ]
+    },
+    "ocrText": "Screenshot of digital screen at Email PDF Viewer.",
+    "description": "Screenshot of first page of Bangalore e-stamp paper rental agreement specifying security deposit and rent terms.",
+    "semanticTags": [
+      "screenshot",
+      "document",
+      "rental agreement",
+      "flat",
+      "legal",
+      "june 2024"
+    ]
+  },
+  {
+    "id": "asset_116",
+    "url": "/photos/asset_116.webp",
+    "thumbnailUrl": "/photos/asset_116.webp",
+    "title": "Swiggy Food Delivery Order History",
+    "contentType": "Screenshot",
+    "date": "2024-08-18T21:30:00Z",
+    "approxDateLabel": "August 2024",
+    "year": 2024,
+    "location": {
+      "city": "Bengaluru",
+      "placeName": "Swiggy App",
+      "category": "Home"
+    },
+    "people": [
+      "Pradeep"
+    ],
+    "visualAttributes": {
+      "dominantColors": [
+        "#E65100",
+        "#FFE0B2"
+      ]
+    },
+    "ocrText": "Screenshot of digital screen at Swiggy App.",
+    "description": "App screenshot showing delivery of mild chicken soup and curd rice during recovery from stomach bug.",
+    "semanticTags": [
+      "screenshot",
+      "swiggy",
+      "food delivery",
+      "order",
+      "soup",
+      "august 2024"
+    ]
+  },
+  {
+    "id": "asset_117",
+    "url": "/photos/asset_117.webp",
+    "thumbnailUrl": "/photos/asset_117.webp",
+    "title": "Google Maps Saved Custom Travel Itinerary",
+    "contentType": "Screenshot",
+    "date": "2024-11-10T22:15:00Z",
+    "approxDateLabel": "November 2024",
+    "year": 2024,
+    "location": {
+      "city": "Bengaluru",
+      "placeName": "Google Maps",
+      "category": "Home"
+    },
+    "people": [
+      "Pradeep"
+    ],
+    "visualAttributes": {
+      "dominantColors": [
+        "#4285F4",
+        "#E8F0FE"
+      ]
+    },
+    "ocrText": "Screenshot of digital screen at Google Maps.",
+    "description": "Saved map pins and saved lists showing top cafes and sunset viewpoints in North and South Goa.",
+    "semanticTags": [
+      "screenshot",
+      "maps",
+      "goa",
+      "itinerary",
+      "travel plan",
+      "november 2024"
+    ]
+  },
+  {
+    "id": "asset_118",
+    "url": "/photos/asset_118.webp",
+    "thumbnailUrl": "/photos/asset_118.webp",
+    "title": "Apple Watch Workout Summary - 10K Run",
+    "contentType": "Screenshot",
+    "date": "2024-09-22T08:15:00Z",
+    "approxDateLabel": "September 2024",
+    "year": 2024,
+    "location": {
+      "city": "Bengaluru",
+      "placeName": "Apple Fitness App",
+      "category": "Home"
+    },
+    "people": [
+      "Pradeep"
+    ],
+    "visualAttributes": {
+      "dominantColors": [
+        "#C2185B",
+        "#F8BBD0"
+      ]
+    },
+    "ocrText": "Screenshot of digital screen at Apple Fitness App.",
+    "description": "Cardio activity summary screenshot showing 10.2 km morning run completed in 54 minutes at 5'18\" pace.",
+    "semanticTags": [
+      "screenshot",
+      "fitness",
+      "running",
+      "workout",
+      "apple watch",
+      "health",
+      "september 2024"
+    ]
+  },
+  {
+    "id": "asset_119",
+    "url": "/photos/asset_119.webp",
+    "thumbnailUrl": "/photos/asset_119.webp",
+    "title": "Zara Winter Jacket Wishlist Screen",
+    "contentType": "Screenshot",
+    "date": "2024-10-05T13:40:00Z",
+    "approxDateLabel": "October 2024",
+    "year": 2024,
+    "location": {
+      "city": "Bengaluru",
+      "placeName": "Zara App",
+      "category": "Home"
+    },
+    "people": [
+      "Pradeep"
+    ],
+    "visualAttributes": {
+      "dominantColors": [
+        "#212121",
+        "#BDBDBD"
+      ]
+    },
+    "ocrText": "Screenshot of digital screen at Zara App.",
+    "description": "Saved product screenshot of wool blend camel double-breasted overcoat for upcoming winter trip.",
+    "semanticTags": [
+      "screenshot",
+      "zara",
+      "clothing",
+      "fashion",
+      "jacket",
+      "shopping",
+      "october 2024"
+    ]
+  },
+  {
+    "id": "asset_120",
+    "url": "/photos/asset_120.webp",
+    "thumbnailUrl": "/photos/asset_120.webp",
+    "title": "Electricity Bill Payment Receipt - BESCOM",
+    "contentType": "Screenshot",
+    "date": "2024-07-05T11:00:00Z",
+    "approxDateLabel": "July 2024",
+    "year": 2024,
+    "location": {
+      "city": "Bengaluru",
+      "placeName": "PhonePe App",
+      "category": "Home"
+    },
+    "people": [
+      "Pradeep"
+    ],
+    "visualAttributes": {
+      "dominantColors": [
+        "#5E35B1",
+        "#EDE7F6"
+      ]
+    },
+    "ocrText": "Screenshot of digital screen at PhonePe App.",
+    "description": "Digital transaction success screenshot for Bangalore electricity board monthly bill payment.",
+    "semanticTags": [
+      "screenshot",
+      "bill",
+      "receipt",
+      "bescom",
+      "utility",
+      "phonepe",
+      "july 2024"
+    ]
+  },
+  {
+    "id": "asset_121",
+    "url": "/photos/asset_121.webp",
+    "thumbnailUrl": "/photos/asset_121.webp",
+    "title": "Golden Retriever Bruno Catching Frisbee at Beach",
+    "contentType": "Pet",
+    "date": "2024-11-16T17:00:00Z",
+    "approxDateLabel": "November 2024",
+    "year": 2024,
+    "location": {
+      "city": "Goa",
+      "placeName": "Morjim Dog Beach",
+      "category": "Beach"
+    },
+    "people": [
+      "Pradeep",
+      "Bruno"
+    ],
+    "visualAttributes": {
+      "dominantColors": [
+        "#F57F17",
+        "#FFF9C4"
+      ]
+    },
+    "ocrText": "Photo of Golden Retriever Bruno Catching Frisbee at Beach at Morjim Dog Beach.",
+    "description": "Happy golden retriever leaping mid-air over foaming ocean waves to catch red flying disc.",
+    "semanticTags": [
+      "pet",
+      "dog",
+      "bruno",
+      "beach",
+      "goa",
+      "golden retriever",
+      "playful",
+      "november 2024"
+    ]
+  },
+  {
+    "id": "asset_122",
+    "url": "/photos/asset_122.webp",
+    "thumbnailUrl": "/photos/asset_122.webp",
+    "title": "Bruno Sleeping Curled Up on Wool Rug",
+    "contentType": "Pet",
+    "date": "2024-08-15T15:00:00Z",
+    "approxDateLabel": "August 2024",
+    "year": 2024,
+    "location": {
+      "city": "Bengaluru",
+      "placeName": "Home Living Room",
+      "category": "Home"
+    },
+    "people": [
+      "Bruno"
+    ],
+    "visualAttributes": {
+      "dominantColors": [
+        "#6D4C41",
+        "#D7CCC8"
+      ]
+    },
+    "ocrText": "Photo of Bruno Sleeping Curled Up on Wool Rug at Home Living Room.",
+    "description": "Golden dog fast asleep belly up on soft beige living room carpet on a monsoon afternoon.",
+    "semanticTags": [
+      "pet",
+      "dog",
+      "bruno",
+      "sleeping",
+      "home",
+      "cute",
+      "august 2024"
+    ]
+  },
+  {
+    "id": "asset_123",
+    "url": "/photos/asset_123.webp",
+    "thumbnailUrl": "/photos/asset_123.webp",
+    "title": "Ginger Cat Milo Basking in Sunlit Window",
+    "contentType": "Pet",
+    "date": "2024-04-18T10:30:00Z",
+    "approxDateLabel": "April 2024",
+    "year": 2024,
+    "location": {
+      "city": "Bengaluru",
+      "placeName": "Home Bedroom Window",
+      "category": "Home"
+    },
+    "people": [
+      "Milo"
+    ],
+    "visualAttributes": {
+      "dominantColors": [
+        "#E65100",
+        "#FFE082"
+      ]
+    },
+    "ocrText": "Photo of Ginger Cat Milo Basking in Sunlit Window at Home Bedroom Window.",
+    "description": "Striped ginger tabby cat dozing on cushioned windowsill with dust motes dancing in warm sunbeam.",
+    "semanticTags": [
+      "pet",
+      "cat",
+      "milo",
+      "sunlight",
+      "window",
+      "home",
+      "cozy",
+      "april 2024"
+    ]
+  },
+  {
+    "id": "asset_124",
+    "url": "/photos/asset_124.webp",
+    "thumbnailUrl": "/photos/asset_124.webp",
+    "title": "Bruno with Wet Nose Waiting for Morning Walk",
+    "contentType": "Pet",
+    "date": "2024-06-12T06:45:00Z",
+    "approxDateLabel": "June 2024",
+    "year": 2024,
+    "location": {
+      "city": "Bengaluru",
+      "placeName": "Apartment Foyer",
+      "category": "Home"
+    },
+    "people": [
+      "Pradeep",
+      "Bruno"
+    ],
+    "visualAttributes": {
+      "dominantColors": [
+        "#4E342E",
+        "#BCAAA4"
+      ]
+    },
+    "ocrText": "Photo of Bruno with Wet Nose Waiting for Morning Walk at Apartment Foyer.",
+    "description": "Close-up portrait of golden retriever sitting patiently by front door with red leash in mouth.",
+    "semanticTags": [
+      "pet",
+      "dog",
+      "bruno",
+      "walk",
+      "morning",
+      "home",
+      "june 2024"
+    ]
+  },
+  {
+    "id": "asset_125",
+    "url": "/photos/asset_125.webp",
+    "thumbnailUrl": "/photos/asset_125.webp",
+    "title": "Milo the Cat Investigating New Delivery Cardboard Box",
+    "contentType": "Pet",
+    "date": "2024-09-02T19:00:00Z",
+    "approxDateLabel": "September 2024",
+    "year": 2024,
+    "location": {
+      "city": "Bengaluru",
+      "placeName": "Home Hall",
+      "category": "Home"
+    },
+    "people": [
+      "Milo"
+    ],
+    "visualAttributes": {
+      "dominantColors": [
+        "#8D6E63",
+        "#D7CCC8"
+      ]
+    },
+    "ocrText": "Photo of Milo the Cat Investigating New Delivery Cardboard Box at Home Hall.",
+    "description": "Playful cat peeking curious green eyes over brown Amazon shipping box flaps.",
+    "semanticTags": [
+      "pet",
+      "cat",
+      "milo",
+      "box",
+      "playful",
+      "home",
+      "september 2024"
+    ]
+  },
+  {
+    "id": "asset_126",
+    "url": "/photos/asset_126.webp",
+    "thumbnailUrl": "/photos/asset_126.webp",
+    "title": "Bruno Splashing in Garden Water Sprinkler",
+    "contentType": "Pet",
+    "date": "2024-05-18T16:00:00Z",
+    "approxDateLabel": "May 2024",
+    "year": 2024,
+    "location": {
+      "city": "Bengaluru",
+      "placeName": "Backyard Lawn",
+      "category": "Outdoor"
+    },
+    "people": [
+      "Bruno"
+    ],
+    "visualAttributes": {
+      "dominantColors": [
+        "#1B5E20",
+        "#81D4FA"
+      ]
+    },
+    "ocrText": "Photo of Bruno Splashing in Garden Water Sprinkler at Backyard Lawn.",
+    "description": "Golden dog joyfully chasing rotating lawn sprinkler droplets on summer afternoon.",
+    "semanticTags": [
+      "pet",
+      "dog",
+      "bruno",
+      "sprinkler",
+      "water",
+      "garden",
+      "summer",
+      "may 2024"
+    ]
+  },
+  {
+    "id": "asset_127",
+    "url": "/photos/asset_127.webp",
+    "thumbnailUrl": "/photos/asset_127.webp",
+    "title": "Cozy Rainy Afternoon Window with Steaming Tea",
+    "contentType": "Pet",
+    "date": "2024-07-24T16:30:00Z",
+    "approxDateLabel": "July 2024",
+    "year": 2024,
+    "location": {
+      "city": "Bengaluru",
+      "placeName": "Living Room Window",
+      "category": "Home"
+    },
+    "people": [
+      "Pradeep"
+    ],
+    "visualAttributes": {
+      "dominantColors": [
+        "#37474F",
+        "#90A4AE"
+      ]
+    },
+    "ocrText": "Photo of Cozy Rainy Afternoon Window with Steaming Tea at Living Room Window.",
+    "description": "Raindrops streaking glass pane looking out over green Bengaluru trees with a warm mug of chai.",
+    "semanticTags": [
+      "everyday",
+      "rain",
+      "window",
+      "tea",
+      "cozy",
+      "monsoon",
+      "home",
+      "july 2024"
+    ]
+  },
+  {
+    "id": "asset_128",
+    "url": "/photos/asset_128.webp",
+    "thumbnailUrl": "/photos/asset_128.webp",
+    "title": "Minimalist Dual-Monitor Work from Home Desk Setup",
+    "contentType": "Pet",
+    "date": "2024-03-05T09:00:00Z",
+    "approxDateLabel": "March 2024",
+    "year": 2024,
+    "location": {
+      "city": "Bengaluru",
+      "placeName": "Study Room",
+      "category": "Home"
+    },
+    "people": [
+      "Pradeep"
+    ],
+    "visualAttributes": {
+      "dominantColors": [
+        "#212121",
+        "#616161"
+      ]
+    },
+    "ocrText": "Photo of Minimalist Dual-Monitor Work from Home Desk Setup at Study Room.",
+    "description": "Clean oak wood desk setup with mechanical keyboard, curved ultrawide monitor, and warm desk lamp.",
+    "semanticTags": [
+      "everyday",
+      "desk",
+      "workspace",
+      "setup",
+      "home office",
+      "minimal",
+      "march 2024"
+    ]
+  },
+  {
+    "id": "asset_129",
+    "url": "/photos/asset_129.webp",
+    "thumbnailUrl": "/photos/asset_129.webp",
+    "title": "Lalbagh Botanical Garden Lotus Pond in Bloom",
+    "contentType": "Pet",
+    "date": "2024-08-01T07:30:00Z",
+    "approxDateLabel": "August 2024",
+    "year": 2024,
+    "location": {
+      "city": "Bengaluru",
+      "placeName": "Lalbagh Botanical Garden",
+      "category": "Outdoor"
+    },
+    "people": [
+      "Pradeep"
+    ],
+    "visualAttributes": {
+      "dominantColors": [
+        "#1B5E20",
+        "#F48FB1"
+      ]
+    },
+    "ocrText": "Photo of Lalbagh Botanical Garden Lotus Pond in Bloom at Lalbagh Botanical Garden.",
+    "description": "Vibrant pink lotus flowers and broad floating green lily pads in tranquil heritage garden pond.",
+    "semanticTags": [
+      "everyday",
+      "nature",
+      "lotus",
+      "lalbagh",
+      "flowers",
+      "bengaluru",
+      "outdoor",
+      "august 2024"
+    ]
+  },
+  {
+    "id": "asset_130",
+    "url": "/photos/asset_130.webp",
+    "thumbnailUrl": "/photos/asset_130.webp",
+    "title": "Vintage Blue Bicycle Parked Against Weathered Brick Wall",
+    "contentType": "Pet",
+    "date": "2024-02-18T17:15:00Z",
+    "approxDateLabel": "February 2024",
+    "year": 2024,
+    "location": {
+      "city": "Bengaluru",
+      "placeName": "Richmond Town Lane",
+      "category": "Outdoor"
+    },
+    "people": [
+      "Pradeep"
+    ],
+    "visualAttributes": {
+      "dominantColors": [
+        "#0277BD",
+        "#A1887F"
+      ]
+    },
+    "ocrText": "Photo of Vintage Blue Bicycle Parked Against Weathered Brick Wall at Richmond Town Lane.",
+    "description": "Classic retro roadster bicycle with wicker basket parked under pink bougainvillea tree.",
+    "semanticTags": [
+      "everyday",
+      "bicycle",
+      "vintage",
+      "street",
+      "bengaluru",
+      "outdoor",
+      "february 2024"
+    ]
+  }
+]

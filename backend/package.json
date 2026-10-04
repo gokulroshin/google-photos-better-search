@@ -1,0 +1,18 @@
+{
+  "name": "gp-better-search-backend",
+  "version": "1.0.0",
+  "description": "Backend API for Google Photos AI-Native Memory Retrieval MVP",
+  "main": "server.js",
+  "type": "commonjs",
+  "scripts": {
+    "start": "node server.js",
+    "dev": "node --watch server.js",
+    "test": "node __tests__/api.test.js",
+    "validate:data": "node ../scripts/validate_dataset.js"
+  },
+  "dependencies": {
+    "cors": "^2.8.5",
+    "dotenv": "^16.4.7",
+    "express": "^4.21.2"
+  }
+}

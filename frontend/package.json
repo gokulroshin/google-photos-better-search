@@ -1,0 +1,30 @@
+{
+  "name": "frontend",
+  "private": true,
+  "version": "0.0.0",
+  "type": "module",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "lint": "oxlint",
+    "preview": "vite preview",
+    "validate:data": "node ../scripts/validate_dataset.js",
+    "validate:e2e": "node ../scripts/e2e_validation.js",
+    "test:engine": "node src/engine/__tests__/engine.test.js",
+    "test:flow": "node src/engine/__tests__/interactiveFlow.test.js",
+    "test:telemetry": "node src/engine/__tests__/confirmationTelemetry.test.js",
+    "test:edge": "node src/engine/__tests__/edgeCases.test.js",
+    "test": "npm run test:engine && npm run test:flow && npm run test:telemetry && npm run test:edge"
+  },
+  "dependencies": {
+    "react": "^19.2.8",
+    "react-dom": "^19.2.8"
+  },
+  "devDependencies": {
+    "@types/react": "^19.2.18",
+    "@types/react-dom": "^19.2.7",
+    "@vitejs/plugin-react": "^6.1.1",
+    "oxlint": "^1.81.0",
+    "vite": "^8.3.0"
+  }
+}
