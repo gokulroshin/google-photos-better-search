@@ -29,9 +29,9 @@ with open(LIBRARY_JSON_PATH, "r", encoding="utf-8") as f:
 UNSPLASH_MAPPING = {
     # Travel (asset_054 to asset_073)
     "asset_054": "photo-1507525428034-b723cf961d3e",  # Goa beach sunset
-    "asset_055": "photo-1540555700478-4be289fbecef",  # Beach hammock
+    "asset_055": "photo-1510414842594-a61c69b5ae57",  # Tropical beach waves & sand
     "asset_056": "photo-1554118811-1e0d58224f24",  # French bakery café
-    "asset_057": "photo-1558981806-ec527fa84c39",  # Scooter coastline road
+    "asset_057": "photo-1519046904884-53103b34b206",  # Coastal tropical beach road
     "asset_058": "photo-1564507592333-c60657eea523",  # Taj Mahal
     "asset_059": "photo-1464822759023-fed622ff2c3b",  # Snow trek Manali
     "asset_060": "photo-1542314831-068cd1dbfeeb",  # Mountain cabin
@@ -43,11 +43,11 @@ UNSPLASH_MAPPING = {
     "asset_066": "photo-1531572753322-ad063cecc140",  # Trevi Fountain Rome
     "asset_067": "photo-1530122037265-a5f1f91d3b99",  # Swiss Alps train
     "asset_068": "photo-1599661046289-e31897846e41",  # Amer Fort Jaipur
-    "asset_069": "photo-1609137144822-0d1276a7ce74",  # Hawa Mahal pink palace
+    "asset_069": "photo-1599661046289-e31897846e41",  # Hawa Mahal palace Jaipur
     "asset_070": "photo-1602216056096-3b40cc0c9944",  # Kerala backwaters
     "asset_071": "photo-1596401057633-54a8fe8ef647",  # Munnar tea hills
     "asset_072": "photo-1530521954074-e64f6810b32d",  # Modern airport hall
-    "asset_073": "photo-1581578731548-c64695cc6952",  # Packed travel suitcase
+    "asset_073": "photo-1553531384-cc64ac80f931",  # Packed travel suitcase vacation
 
     # People (asset_074 to asset_093)
     "asset_074": "photo-1530103862676-de8c9debad1d",  # Birthday cake cutting

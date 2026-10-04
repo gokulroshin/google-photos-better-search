@@ -1,6 +1,6 @@
 import React from 'react';
 import { useSearchStore, ActionTypes } from '../store/searchStore.jsx';
-import { GooglePhotosLogo, ArrowBackIcon } from './Icons.jsx';
+import { ArrowBackIcon } from './Icons.jsx';
 
 export default function Header() {
   const { state, dispatch } = useSearchStore();
@@ -25,8 +25,8 @@ export default function Header() {
         zIndex: 20
       }}
     >
-      <div style={{ display: 'flex', alignItems: 'center', gap: '10px' }}>
-        {isSearchActive ? (
+      <div style={{ display: 'flex', alignItems: 'center', gap: '8px' }}>
+        {isSearchActive && (
           <button
             onClick={handleBack}
             aria-label="Back to home feed"
@@ -37,7 +37,7 @@ export default function Header() {
               display: 'flex',
               alignItems: 'center',
               justifyContent: 'center',
-              padding: '6px',
+              padding: '4px',
               borderRadius: '50%',
               color: 'var(--gp-text-secondary)',
               transition: 'background-color 150ms ease'
@@ -47,9 +47,18 @@ export default function Header() {
           >
             <ArrowBackIcon size={20} />
           </button>
-        ) : (
-          <GooglePhotosLogo size={26} />
         )}
+
+        <img
+          src="/google-photos-logo.png"
+          alt="Google Photos Logo"
+          style={{
+            width: '26px',
+            height: '26px',
+            objectFit: 'contain',
+            display: 'block'
+          }}
+        />
 
         <div style={{ display: 'flex', alignItems: 'center', gap: '8px' }}>
           <span style={{ fontSize: '18px', fontWeight: 600, color: 'var(--gp-text-primary)', letterSpacing: '-0.02em' }}>
